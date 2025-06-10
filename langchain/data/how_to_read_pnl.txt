@@ -1,0 +1,3662 @@
+How to Read
+A
+PROFIT AND LOSS
+STATEMENT
+Tata McGraw Hill Professional: Finance Made Easy Series
+Tata McGraw Hill Professional: Finance Made Easy Series
+Financial success is the raison d’être of any business, and fi nancial health
+of any organization is refl ected in its fi nancial statements. But, it has been
+observed that managerial professionals often have little understanding of
+fi nance and little time to read treatises on it. Further, fi nancial statements
+are regarded as too complex to understand and left to be ‘deciphered’ by
+fi nance experts. Hence, cultivating a culture of awareness and transparency
+of fi nance is a prime imperative.
+Finance Made Easy Series has been designed to impart management
+executives with adequate knowledge to understand and appreciate fi nancial
+statements and their implications for the fi scal solvency of their fi rms. Th is
+series seeks to demystify apparently complex fi nancial statements, and
+help create a fi nance-savvy executive class, the key to fi scally sound and
+successful businesses. A lucid, creative and concise exposition of fi nancial
+statements—their components, jargon and computational methods—
+with short stories and numerical examples makes for an engaging reading
+for busy professionals.
+Titles in the series include:
+• How to Read a Balance Sheet
+• How to Read a Profi t and Loss Statement
+• How to Read a Cash Flow Statement
+and many more…
+McGraw-Hill Offi ces
+New Delhi New York St Louis San Francisco Auckland Bogotá Caracas
+Kuala Lumpur Lisbon London Madrid Mexico City Milan Montreal
+San Juan Santiago Singapore Sydney Tokyo Toronto
+Tata McGraw Hill Publishing Company Limited
+NEW DELHI
+N. Ramachandran
+Principal Consultant
+Management Advisory Services
+Kochi
+Ram Kumar Kakani
+Associate Professor, XLRI
+Jamshedpur
+How to Read
+A
+PROFIT AND LOSS
+STATEMENT
+Tata McGraw Hill Professional: Finance Made Easy Series
+Published by Tata McGraw Hill Education Private Limited,
+7 West Patel Nagar, New Delhi 110 008.
+Copyright © 2010, by Tata McGraw Hill Education Private Limited
+No part of this publication may be reproduced or distributed in any form or by any
+means, electronic, mechanical, photocopying, recording, or otherwise or stored in a
+database or retrieval system without the prior written permission of the publishers. The
+program listings (if any) may be entered, stored and executed in a computer system,
+but they may not be reproduced for publication.
+This edition can be exported from India only by the publishers,
+Tata McGraw Hill Education Private Limited.
+ISBN (13): 978-0-07-068019-7
+ISBN (10): 0-07-068019-1
+Managing Director: Ajay Shukla
+Head—Professional and Healthcare: Roystan La’Porte
+Executive Publisher—Professional: R Chandra Sekhar
+Asst. Sponsoring Editor—BGR: Dipankar Das
+Production Executive: Rita Sarkar
+Manager—Sales & Marketing: S Girish
+Sr. Product Specialist—BGR: Priyanka Goel
+General Manager—Production: Rajender P Ghansela
+Asst. General Manager—Production: B L Dogra
+Information contained in this work has been obtained by Tata McGraw Hill,
+from sources believed to be reliable. However, neither Tata McGraw Hill nor
+its authors guarantee the accuracy or completeness of any information published
+herein, and neither Tata McGraw Hill nor its authors shall be responsible for
+any errors, omissions, or damages arising out of use of this information. This
+work is published with the understanding that Tata McGraw Hill and its authors
+are supplying information but are not attempting to render engineering or other
+professional services. If such services are required, the assistance of an appropriate
+professional should be sought.
+Typeset at Tact Computer Graphics, A-118, St. No. 6, West Azad Nagar, Krishna
+Nagar, Delhi 110 051, and printed at Rashtriya printers, M-135, Panchsheel Garden,
+Naveen Shahdara, Delhi-110 032
+Cover Design: Kapil Gupta, New Delhi
+RCDCRDDZRXLRZ
+The McGraw-Hill Companies
+To
+Our Teachers
+Fi
+nancial success is arguably the primary purpose around which all
+business management activities revolve. Th is brings an imperative need
+to promote a culture of fi nancial discipline throughout an organization.
+In order to build an economically viable company, employees in all
+the departments need to understand the ramifi cations of their actions
+on the overall fi scal health of the organization. For this to happen it is
+very important that not only the fi nance managers, but also managers in
+all other fi elds have an adequate understanding and appreciation of the
+subject. Th e pervasiveness of such an understanding may ultimately prove
+to be the diff erence between a successful and a bankrupt organization.
+Th e series of books, Finance Made Easy, has been written to impart
+management executives with the knowledge that they would require in
+order to understand basic fi nancial statements. Th e series is an attempt at
+breaking the myth that fi nancial statements like profi t and loss statement,
+cash fl ow statement and balance sheet are too complex to comprehend.
+Th is particular book deals with the profi t and loss statement. Th e
+primary purpose of a business enterprise is to generate profi ts for its
+owners. Th e profi t and loss statement conveys the profi tability of the
+business. It is by looking at this statement, that we gauge the success of a
+business. It also provides us insights on the improvements that need to be
+made to further enhance a fi rm’s profi tability.
+Hence, it becomes necessary for all the stakeholders of a business to
+have some rudimentary knowledge about the statement and the impact it
+Preface
+has on the business. It is with some confi dence that we claim this book is
+your ideal guide in getting you to that point. Th e readers will appreciate
+the simple language in which this book is written so as to reduce all the
+unnecessary fi nancial jargons and present the concepts in a very easily
+comprehensible format.
+Readers are welcome to share their feedback by writing to
+ramkumarkakani@gmail.com
+NEELAKANTAN RAMACHANDRAN
+RAM KUMAR KAKANI
+viii Preface
+We
+would like to thank all the colleagues and students who have
+contributed to the manuscript development. We are especially indebted
+to:
+􀀁 Azad Purohit, CA
+􀀁 D Rama Rao, MBA
+􀀁 Kamlesh Kumar Th akkar, CA
+􀀁 Nutan Shashi Tigga, MA
+􀀁 PBS Srinivas, B.Tech
+􀀁 Rohit N Barchha, CAI
+􀀁 Suyash Kumar Tiwary, MCA
+We would like to thank Dipankar Das, Rita Sarkar, Ullas Sindhu and
+other team members of the Tata McGraw Hill Professional. In particular,
+we thank R. Chandra Sekhar, whose skillful persuasion and editorial work
+has helped improve and bring clarity to this book enormously.
+NEELAKANTAN RAMACHANDRAN
+RAM KUMAR KAKANI
+Acknowledgments
+Preface vii
+Acknowledgments ix
+Introduction 1
+1. Th e Income Statement — An Introduction 3
+Profi t and Loss Statement 4
+Importance of Income Statement 8
+2. Accounting Principles 9
+Accounting Period 10
+3. Measurement of Income 18
+Revenue 19
+Expenses 20
+Classifi cation 21
+Diff erent Account Period Items 23
+4. Preparation of Income Statement 25
+Account 25
+Various Types of Profi t 30
+Form and Contents of Profi t and Loss Account 34
+Non-operating Income/Other Income 39
+Contents
+xii Contents
+5. Income Statement and Balance Sheet 47
+6. Inventory Valuation 53
+First In First Out (FIFO) 52
+Last In First Out (LIFO) 53
+Weighted Average Cost (WAC) 54
+7. Income Statement of a Manufacturing Concern 61
+Manufacturing Account 61
+Trading Account 64
+8. Possible Future Expenses 66
+Bad Debt Expense 66
+9. Depreciation, Amortization and Depletion 70
+Methods of Depreciation 72
+Intangible Assets and Amortization 78
+Depletion 79
+Depreciation and Profi t Measurement 79
+Diff erence: Depreciation, Amortization and Depletion 81
+10. Solved Illustrations 82
+Summary and Exercises 93
+Index 103
+The primary motive of running a business enterprise (say, Google Inc.)
+is income. Th e profi ts are the compensation derived by an entrepreneur
+for the capital invested and risks incurred in running a fi rm (think of the
+reasons for the existence of Google and its benefi ts to its owners). Profi ts
+earned are also one of the chief indicators of the effi ciency of a business
+concern. Yes, owners of Google Inc. would be happier with a high-profi t
+fi rm than a non-profi t making fi rm. Hence, it is of utmost importance
+that each and every employee of a company understands the role that the
+need for income plays in shaping the decisions of a concern.
+A person without or with little some understanding of calculation and
+projection of income (returns) would have a tough time in contributing
+anything of value to strategic organizational decisions. If you are an HR
+head/manager or a production manager who does not understand the
+fi nancial underpinnings that drive organizational decisions, you will not
+be in a position to add the value required at the executive team level. In
+order to calculate the amount of profi ts (or loss) of a fi rm, a statement is
+prepared by the fi nancial managers of an entity. Th is Income Statement is
+also known as Profi t and Loss Account (P&L Account).
+Introduction
+
+The law requires companies to compulsorily prepare two statements:
+􀀁 Th e Balance Sheet
+􀀁 Th e Income Statement
+Th ese perhaps, are the most important and relevant credentials for an
+enterprise to refl ect its fi nancial performance. While we have discussed
+the balance sheet in an earlier book titled ‘How to read a Balance Sheet’,
+we will be elaborating on the income statement and its relationship with
+the balance sheet in this book.
+Due to the primacy of income and the role played by it in shaping
+the decisions of a fi rm, a detailed analysis is required to understand the
+components that infl uence it. Th e need for information in this regard is
+addressed by preparing a detailed statement summarizing the increases and
+decreases in income, caused by revenues and expenses during the accounting
+period. Yes, an income statement is a statement dedicated exclusively to
+summarizing this!
+An income statement uses a simple mechanism to come up with
+the fi nal profi t or loss fi gure at the end of an accounting period. All the
+revenues and expenses of a particular period are put together, categorized,
+and presented in an orderly fashion. Th e diff erence between these two
+components is either profi t, in case revenues are more than expenses; or loss,
+in case expenses are more than revenues. Mentioned below is a very simple
+defi nition of the profi t and loss statement.
+The Income Statement — An
+Introduction
+1
+C H A P T E R
+4 How to Read a Profi t and Loss Statement
+Profit and Loss Statement
+An orderly list of all the revenues and all the expenses at the end of the
+fi nancial period. Th e diff erence between revenues and expenses gives an
+estimate of the profi t or loss of the period, i.e., the net earnings of the business
+Th e following are some new terms that we came across in the defi nition:
+Revenue
+Th is is the total amount of money received or to be received by a company
+for goods or services it provided during a certain time period. So, for
+example, if a fi rm sells laptops worth Rs. 2,000,000 and also renders
+maintenance services to a fi rm for Rs. 500,000, then the total revenue of
+the company would be Rs. 2,500,000.
+Expenses
+Expenses are referred to as the costs incurred in producing revenue by a
+company. Continuing with the previous example, if the fi rm incurred Rs.
+1,200,000 as the cost of manufacturing the laptops and paid Rs. 200,000
+to the mechanic for repairing them, then the total costs incurred by the
+fi rm would be Rs. 1,400,000.
+Th e subsequent sections of the book will deal with revenues and
+expenses in much more detail.
+Box 1.1 Costs and Expenses
+Bholuram: Hey Finnova, you have used the word ‘expenses’
+above. What is the difference between ‘costs’ and ‘expenses’?
+Finnova: Good question, Bholu. Although, many a times
+the words are used synonymously (we’ll also use the two
+interchangeably in some places), there is a subtle difference
+The Income Statement — An Introduction 5
+Let us now take a very simple example to understand the basic concept
+of profi t and loss.
+Example 1: Bala
+Bala is a popular dosawala who prepares and sells hot mouth watering dosas
+(aka dosai) outside a big management school. He is always busy and registers a
+large amount of sale. A few days back, Bala got an off er to work for a big city
+caterer who has off ered him a salary of Rs. 5,000 per month. Being illiterate
+Bala has never been able to calculate the profi ts from his dosa business. With
+this new job off er, he is confused and is unable to ascertain as to which of
+between the two terms. Costs refer to all the outlays of
+the company. The company may pay for items such as,
+purchasing land, purchasing raw materials, paying salary to
+staff, paying for electricity, etc. All these items will be refered
+to as costs of the company. Expenses on the other hand refer
+to that portion of costs which is incurred by the company in
+some revenue generating activity. Let us illustrate with the
+help of an example. Suppose you need to supply 100 pens to
+a company. For that you need plastic as raw material. Now,
+instead of buying plastic to manufacture 100 pens, you buy
+enough to manufacture 1,500 pens. You do this for future
+orders and also to ensure that you do not run out of plastic
+(raw material stock). Now, you used plastic for only 100 pens,
+while the rest is still kept in your godown as raw material
+inventory. In this case, the money spent on buying plastics
+for 100 pens can only be termed as expenses as only that
+part of your money was used towards a revenue generating
+activity that is selling of pens, while the money spent on
+the entire 1,500 pens is your cost. In future, however, when
+you decide to manufacture the remaining 1,400 pens, those
+costs will also become your expenses.
+Bholuram: That is cool Finnova! Let me think of a few costs
+in my fi rm that’ll become expenses later. The cost incurred
+by you on the coffee and samosa that you gave me yesterday
+must have already become an expense.
+6 How to Read a Profi t and Loss Statement
+the options (his business or the new job) will give him a better return. He
+approached one of the management students, Miss Amrapalli for help.
+Amrapalli asked Bala the following two questions:
+1. What are the monthly sales of your dosa business (in other words,
+what is your revenue)?
+2. What expenses do you incur in your business?
+Bala replied:
+Th ese are the total sales that I make in a month:
+􀀁 240 cheese dosas which I sell for Rs. 22 each
+􀀁 300 plain dosas which I sell for Rs. 11 each
+􀀁 280 masala dosas which I sell for Rs. 20 each
+Th en Bala listed all his expenses as under.
+􀀁 Dosa paste: Rs. 4 for each piece of all dosa (includes all types)
+􀀁 Oil: Re 1 for each piece of dosa (includes all types)
+􀀁 Cheese: Rs. 5 for each piece of cheese dosa
+􀀁 Masala: Rs. 7 for each piece of masala dosa
+􀀁 Rent: Rs. 1,000 per month
+Amrapalli quickly did some calculations to fi nd out the total revenues
+for the dosawala and listed them on one side of a blank paper (see Table
+1.1). Th e paper looked somewhat like this:
+Table 1.1 Total Monthly Revenues of Bala
+Item (1) Pieces (2) Selling price per
+piece (Rs.)
+(3)
+Total revenue
+(Rs.)
+(2) * (3)
+Cheese dosa 240 Rs. 22 Rs. 5,280
+Plain dosa 300 Rs. 11 Rs. 3,300
+Masala dosa 280 Rs. 20 Rs. 5,600
+Total 820 Rs. 14,180
+The Income Statement — An Introduction 7
+Th en, on another piece of paper, Amrapalli listed all the expenses of
+Bala (see Table 1.2). Th ey looked somewhat like this:
+Table 1.2 Total Monthly Expenses of Bala
+Item (1) Pieces (2) Cost price per piece
+(Rs.)
+(3)
+Total cost
+(Rs.)
+(2) * (3)
+Dosa paste 820 Rs. 4 Rs. 3,280
+Oil 820 Re. 1 Rs. 820
+Cheese 240 Rs. 5 Rs. 1,200
+Masala 280 Rs. 7 Rs. 1,960
+Rent – – Rs. 1,000
+Total 2,160 Rs. 8,260
+Being a very systematic management student, Amrapalli now listed
+all the revenues on the right side and the costs on the left side to get
+a better comparison of the revenues and expenses. Table 1.3 shows this
+statement.
+Table 1.3 Total Revenues and Expenses of Bala
+Expenses Amount (Rs.) Revenues Amount (Rs.)
+Dosa paste 3,280 Cheese dosa 5,280
+Oil 820 Plain dosa 3,300
+Cheese 1,200 Masala dosa 5,600
+Masala 1,960
+Rent 1,000
+Profi t (Revenues
+less costs)
+5,920
+Total 14,180 Total 14,180
+Now we see that the total revenues listed on the right side come to
+Rs. 14,180. At the same time, the total costs sum up to Rs. 8,260. Th e
+diff erence between both these items, that is, the revenues and the costs
+is equal to Rs. 5,920 (Rs. 14,180 – Rs. 8,260) is the profi t for Bala, also
+8 How to Read a Profi t and Loss Statement
+known as net income. Th is fi gure is greater than Rs. 5,000 which was
+being off ered by the catering company. Th us, Bala decided to stay in the
+campus and carry on with the existing business.
+Th e last statement that we just saw was nothing but the income
+statement for Bala, the dosawala, whereby, we listed his total revenues and
+total costs to eventually come up with the profi ts earned by him.
+Importance of Income Statement
+Management and owners, while looking at their business during a period,
+are interested in getting answers to a few mundane questions such as:
+􀀁 Was it a good year or a bad year for the business?
+􀀁 What was the volume of operations?
+􀀁 What was the margin available on sales?
+􀀁 How was each rupee from sales distributed among the diff erent expense
+items and profi t?
+All these questions cannot be answered with a balance sheet.
+Answering the above questions would need an additional financial
+statement addressed exclusively to summarize the revenue and expenses
+of a particular period. Th is statement is what is referred to variously as the
+Income Statement, the Income Summary, the Profi t and Loss Account or the
+Profi t and Loss Summary. Th ough a profi t and loss statement of a company
+can have a number of uses, the primary uses can be listed as under:
+􀀁 It informs the stakeholders of the profi ts of the company for a particular
+period.
+􀀁 It off ers a comparison with the performance in the past and informs
+them of the company’s progress.
+􀀁 It helps them to predict the future profi ts of the company.
+􀀁 It informs them of the profi t margins maintained by the business.
+􀀁 It tells them of the composition of the expenses of the company and
+identify cost cutting measures.
+􀀁 It off ers a comparison with other companies of the same industry.
+While preparing the accounts of a company, one comes across
+a number of alternatives with regards to accounting for certain items.
+Presence of such alternatives brings about a certain amount of ambiguity
+in the financial statements of a company. While dealing with the
+preparation of income statement too, there may be situations where more
+than one way of dealing with a component is possible. For example, if an
+order is received in one year (say, 2007), delivery for the good is made in
+the next year (say, 2008), and payment is received in the third year (say,
+2009), then there may be confusion with respect to the year for which
+such revenue should be recorded.
+In order to minimize such uncertainties, a number of principles
+or rules are framed which guide the accountant with respect to the
+steps to be taken in presence of vagueness. Th ese principles form the
+basis on which the accounts of a company are prepared. Th ese tell the
+accountant the specifi c ways in which a particular component should
+be dealt with.
+Moving ahead, we fi rst discuss what we mean by the term accounting
+period, following which, we list some of the most widely accepted
+principles with regards to the profi t and loss account of a company.
+Accounting Principles
+2
+C H A P T E R
+10 How to Read a Profi t and Loss Statement
+Accounting Period
+Accounting period is commonly referred as the ‘fi nancial year’ for which
+we make the fi nancial statements of a business entity, that is, a balance
+sheet and an income statement. Th e readers might have observed that
+most companies follow either April 1–March 31, or January 1–December
+31 as their accounting periods. But these accounting periods should not
+be considered as a compulsion by law (or accounting bodies). Th ese are
+followed more as a matter of past convention and convenience. Th ough
+rare, business entities can have accounting periods of less than or more
+than 12 months. Legally, the maximum period may be of 15 months
+which may be extended to 18 months on obtaining special permission
+from the Registrar of Companies. In the example of Bala dosawala, the
+accounting period was of one month only for preparing Bala’s income
+statement. Th e understanding of an accounting period will come in
+handy when understanding the basic accounting principles.
+Realization Principle
+Realization is technically understood as the process of converting a noncash
+resource or a right into money. For example, selling of chairs for cash
+which has the eff ect of converting non-cash resource, that is, chairs into
+money. In terms of accounting, it is more precisely understood to mean
+recognition of revenue from sale of assets for cash or other such receivables
+such as cheque, promissory notes, etc. As an accounting principle, it is
+used to precisely identify the amount of revenue to be recognized and
+the amount of expense to be matched to such revenue, for the purpose of
+income measurement.
+Realization, thus, usually, pertains to the recognition of revenue from
+a sale or provision of goods or services to customers. When should we
+recognize revenue? Th is is the question that the realization principle tries to
+answer. Th ere can be several arguments for and against recognizing revenue
+at a particular time, which could be the time when the inventory is acquired,
+when the goods are made ready for sale, when the order is received, when
+Accounting Principles 11
+the goods are delivered, or when the sale proceeds are collected. In order
+to avoid such confusion, revenue is generally recognized when goods are
+delivered or services are rendered. Th is is done despite the fact that delivery is
+only one of a series of events related to the sale. Th e rationale is that delivery
+validates or in other words, confi rms a claim against the customer. Th e
+customer is set to be obligated to the seller with regards to the payment
+for the goods (or services) received.
+Th e principle of realization being the point of recognition of revenue
+also enables us to have a reference for recognizing the expenses incurred
+in making available such goods or services. Th us, the realization principle
+facilitates the process of income measurement by identifying revenues
+and expenses with respect to such revenues. By implication, if costs are
+incurred in producing the goods, unless sales are made, such costs are not
+considered as expenses. So, as soon as revenue is recognized, all the costs
+which went about realizing that revenue now form part of the expenses.
+Th ese costs, which have become part of the expenses, are also known as
+expired costs.
+To summarize the above discussion, the realization principle implies
+the following two major factors:
+􀀁 All completed sales transactions of the period and the amounts received
+or to be received, with relation to such completed sales transactions
+are recognized as revenue of the period. Such sales transactions
+are generally taken to be complete only when the goods are
+actually delivered or service is rendered.
+􀀁 All costs involved in the goods or services transferred to the customer
+are recognized as expired costs and are hence, expenses of the
+period.
+Accrual Principle
+Closely related to the realization principle is the accrual principle. Common
+sense dictates that measurement of an organization’s income is the most
+important use of accounting. Th e managers need to be constantly updated
+with the income of their companies. Th e accurate measurement of income
+is enhanced via the use of the accrual principle of accountancy.
+12 How to Read a Profi t and Loss Statement
+What is income? Well, it is essentially a measure of the change in
+owner(s) equity over a period of time. One example of a change in the
+owners’ equity is that if you go to buy a shirt from a shop, then the cash
+balance of the shop and the owner(s) equity will increase by some amount
+(say, Rs. 500). Similarly, if a company pays Rs. 1,000 cash towards
+purchase of a fan, then the cash balance of the company and its owner(s)
+equity will reduce by an amount of Rs. 1,000.
+Box 2.1 Owner(s) Equity
+However, there will always be cases wherein, revenues and expenses
+would not be accompanied by a simultaneous increase/decrease in the
+cash position of the fi rm. It may happen that cash relating to the revenue
+of a particular period is realized in some other accounting period and cash
+relating to a particular expense item is paid out in a diff erent accounting
+period. As in the previous example, the company might very well have
+paid the Rs. 1,000 it owed towards the purchase of the fan in the next
+accounting period. Recording of such non-cash transactions is one of the
+basic problems of accounting. We use the accrual principle in order to
+deal with these discrepancies.
+Bholuram: Hey Finnova! What is Owners’ Equity? And
+why have you suddenly raised your pitch?
+Finnova: Bholu, now I am convinced that you suffer from
+short term memory loss. Don’t you remember that in the
+book on Balance Sheet, we defi ned the owners’ equity as
+Owners’ Capital + Reserves & Surplus + The Retained
+Profi ts of the Business Entity. It essentially gives us the
+amount of money that the owners that is shareholders own
+in a company. It is important to note that with an increase
+in profi ts, the Owners’ Equity will increase, while it will
+decrease in case of a loss. Consult your book on Balance
+Sheet for further details.
+Bholuram: Thank you. Now, I am confi dent that you suffer
+from high blood pressure.
+Accounting Principles 13
+Th e accrual principle in turn takes the help of the most fundamental
+accounting equation:
+Owner(s) Equity + Liabilities = Assets
+According to this principle, the incoming and outgoing of cash is
+absolutely immaterial for calculating the income of a period. What the
+accountant should be concerned with is whether the transaction has any
+eff ect on the owners’ equity and consequently on the equation. Only
+those transactions which have an eff ect on the owners’ equity are taken
+into consideration when calculating the income of a specifi ed period.
+Th us, by maintaining the accounts on an accrual system, a more accurate
+estimation of the income of an entity pertaining to that particular
+accounting period is observed.
+To summarize, the accrual concept states that net income arises from
+events that change the owner(s) equity in a specifi ed period and that these
+are not necessarily the same as the change in the cash position of the
+business.
+Th us, realization and accrual together, lay down the ground rule for
+the measurement of income.
+To better illustrate how these two principles help in the measurement
+of income, let us take up the case of Nagma Gupta.
+Example 2: Nagma Gupta
+Situation 1: Miss Nagma Gupta started her business on July 1. On the same
+day, she took a loan of Rs. 1,000,000 from a bank at the rate of 12 percent per
+annum for purchasing machinery. Th e machinery has a life of 10 years, with
+no scrap value. She also paid Rs. 600,000 as three months’ rent, in advance.
+We are required to calculate her expenses for the month of July.
+Explanation
+Readers will agree that the bank borrowing does not represent
+revenue. Th e increase in the cash is off set by an increase in the liabilities,
+14 How to Read a Profi t and Loss Statement
+whereas, an interest of Rs. 10,000 (computed as monthly charge equals
+Rs. 1,000,000 × 12% × 1/12) and a depreciation of Rs. 8,330 (computed
+as monthly charge equals Rs. 1,000,000/10 × 1/12) are accrued expenses
+in the month of July. Rent expense for the month of July will be Rs.
+200,000 only, as the rent has been paid in advance for the months of
+August and September.
+Situation 2: Nagma had received written orders worth Rs. 2,000,000
+in the month of June itself (even before starting her business). She started the
+production accordingly. Th e total cost of production was Rs. 1,200,000. Th e
+sales of merchandise to her customers, from July 2-31 are as follows:
+Total Sales = Rs. 950,000 (cash sales = Rs. 250,000 and credit sales to
+Syed Shabbirul Haque = Rs. 700,000)
+Explanation
+In Situation 2, the revenue is recognized only when the goods are
+sold to the customers and not on receiving the order or on incurring the
+production cost. So, the total sales during the month of July would be
+Rs. 950,000. It is an amount equal to the cash received (Rs. 250,000) and
+to be received in the later month (Rs. 700,000). Th us, the accounting
+equation would be:
+Assets = Liabilities + Owner(s) Equity
+Cash + Debtors = Liabilities + Owner(s) Equity
+Rs. 250,000 + Rs. 700,000 = Re. 0 + Rs. 950,000
+When Syed Shabbirul Haque pays Rs. 700,000 in the next month,
+that amount must not be counted for the second time while measuring
+the revenue in the month of August. During that period (when cash is
+received from Syed Shabbirul Haque), the cash would increase by Rs.
+700,000 and the debtors would decrease by the same amount. The
+amount of total assets, liabilities and owner(s) equity would remain the
+same.
+Th e accrual concept plays an important role in the example discussed.
+Credit sales to Syed Shabbirul Haque are considered to be revenue earned
+Accounting Principles 15
+in July, whereas the cash is received in the next month. Th us, the revenue
+is of July, when the sale took place, and not when the cash is received1.
+Table 2.1 presents the diff erences between the accrual and cash basis
+of accounting.
+Table 2.1 Accrual System vs Cash System
+Basis of
+accounting
+Accrual basis Cash basis
+Revenue When earned When cash is collected
+Expenses When incurred When cash is paid
+GAAP Compliance Yes No
+Example If you were a student
+staying in a hostel then your
+hostel owner would record
+an income event on the
+day your hostel rent comes
+due (you owe it to him/her).
+He/she records an expense
+event when he/she owes
+the monthly wages to the
+servant for maintenance
+of your apartment in that
+month (he/she owes it to the
+agent).
+If you were a student
+staying in a hostel then your
+hostel owner would record
+an income event only when
+you pay your hostel rent.
+Similarly, the hostel owner
+records an expense event
+when he/she pays the
+wages for maintenance of
+the apartment.
+Users Almost all publicly listed
+fi rms such as ACC, HUL,
+etc.
+Almost all Governments
+(central and state), small
+vendors such as Tulsi Pan
+Shop, etc.
+Matching Principle
+We agreed earlier that for business enterprises, it is absolutely essential
+to measure accurately the income of a particular accounting period.
+1Herein, it would be worthwhile to mention that there are some business entities, which still prefer
+to maintain their accounts on cash rather than an accrual based system. Th ey compute their income
+only on the basis of cash paid and not when there is a change in owner(s) equity. Of course,
+most of these entities would have customers with poor payment records (resulting in doubtful
+receivables). Typically, small shops and village moneylenders are most prone to maintaining a
+cash-based accounting system.
+16 How to Read a Profi t and Loss Statement
+Th is is where the matching principle comes handy. It states that while
+calculating the income for a particular accounting period, the costs for
+that period should be subtracted or matched, with the revenues of that
+period. Th en we would be left with the profi t or loss of the company for
+the period. It is this profi t or loss that will get added or subtracted from
+the owner(s) equity. So, by matching the revenues and costs of the same
+period, a precise measure of the net income (or loss) of that particular
+period is made possible by the matching principle.
+Assets that Become Expenses
+Almost all the assets a business entity owns sooner or later become
+expenses, a concept called asset expiration. We also observe a few assets
+such as inventories becoming expenses sooner than later. An examination
+of some specifi c cases of assets that become expenses will enable us to
+understand the idea of asset expirations very clearly.
+Inventories
+Inventories2 of merchandise become expenses when they are sold. A trader
+selling off his inventory is a simple example of inventories becoming
+expenses. In case of manufacturing organizations, all the costs incurred on
+the transformation of raw materials add value to the inventory. Th ese costs
+are treated as expenses only when the inventory in question is sold (based
+on the realization and matching principles). Around 20 percent of steel
+manufacturing fi rms’ assets are its inventories.
+Prepaid Expenses
+Prepaid expenses3 represent services or assets paid for, prior to their
+actual use. Th us, they represent unexpired costs. Th ey become expenses
+2While this topic was introduced in the book How to Read a Balance Sheet, the coverage here is
+from the perspective of profi t and loss statement.
+3Refer to the book How to Read a Balance Sheet for further study.
+Accounting Principles 17
+when the services are used or assets are consumed. Railway reservation
+tickets purchased a couple of weeks before the actual travel, by a fi rm, is
+a good example of a prepaid expense. When the travel dates on the ticket
+lapses, the prepaid expense gets converted to an expense. Prepaid rent and
+prepaid insurance are other examples of prepaid expenses.
+Long-Lived Assets
+Fixed assets such as furniture, plant and machinery, and vehicles have a
+limited useful life. Th e costs of such assets expire during the life of the
+assets in question. Such expiration of the costs of the assets is referred
+to as depreciation capturing the decreasing future utility of these assets.
+Chapter 6 is entirely devoted to explaining the concept of depreciation.
+When you sell an item costing Rs. 7,000 for Rs. 10,000, assuming no
+other costs, you earn a profi t of Rs. 3,000. What we have done in arriving
+at this conclusion is nothing but a measurement of the net income.
+Th is is achieved by comparing the revenue from sales against the cost of
+materials parted with for earning that revenue. Th e net diff erence in this
+comparison represents net income or profi t.
+The simple illustration demonstrates the basic process of profit
+measurement. Th is process involves the following steps shown in Fig. 3.1.
+First, identify the realized revenues. Second, identify the costs expiring in
+relation to those identifi ed revenues. Finally, match the identifi ed revenue
+and the expired costs. Th e diff erence arising from this matching is the
+profi t (when revenue is higher) or loss (when costs are higher).
+Figure 3.1 Measuring Profi t or Net Income
+Measurement of Income
+3
+C H A P T E R
+Identify Realized Revenues
+Identify Related Costs
+Match Identified revenues and expired Costs
+The difference arising from the matching is the profit or loss
+Measurement of Income 19
+Revenue
+Revenue may be understood as the total amount of money received or
+to be received by a company in return of goods sold or services provided
+to some other entity. It also includes earnings from interest, dividend,
+rents and other items of income. Furthermore it is referred to as sales or
+turnover. It is to be noted that in the accrual system, revenue is a measure
+of the total sales/revenue accrued or earned for the period, irrespective
+of whether or not any cash is received in lieu of those liabilities.1 If the
+right to receive that income is created or the time for which the income
+relates has expired, we treat the income as accrued. For example, a credit
+sale made during this period, to be collected during the next accounting
+period, is an income of this period. Similarly, expiry of date and time for
+a non-cancellable hotel booking is an income for the hotel.
+Somewhat contrary to the concept of accrued revenue is unearned
+revenue. It refers to revenues being pre-received by a company in a
+particular accounting period, while it actually pertains to a later accounting
+period. For example, if on March 5, 2009, a computer vendor received
+Rs. 50,000 as fees for annual maintenance for the period covering April
+1, 2009, to March 31, 2010, then the entire income of Rs. 50,000 would
+be treated as an advance from customers also popularly known as unearned
+revenue. Quite logically, unearned revenue is not regarded as the revenue
+of the current period but added to the revenue of the period to which it
+relates. In the annual maintenance example, the amount of Rs. 50,000
+will be regarded as revenue for the accounting period beginning on April
+1, 2009.
+Characteristics of Revenue
+􀀁 Normally, revenue is generated out of business activities, that is, sale
+of goods or rendering of services.
+􀀁 Revenue results in an infl ow of assets (cash or receivables) and an
+outfl ow of goods or services (cash or payables).
+1Th e time of recognition of revenue for companies following the accrual system of accounts will be
+diff erent from companies following the cash system of maintaining accounts.
+20 How to Read a Profi t and Loss Statement
+􀀁 Revenue is usually related to a specifi c period, i.e., revenue of one
+year cannot be included as revenue of another year.
+􀀁 Revenue leads to an increase in the owner(s) equity.
+It is important to note that revenue should not be confused with
+profi t or net income. Revenue arises throughout the accounting period by
+way of sale of goods or rendering of services, but profi t is to be calculated
+at the end of the accounting period. Profi t is calculated by matching
+the revenues with the costs that have been expired during the relevant
+accounting period, wherein revenues less expenses gives us the profi t for
+the period.
+Expenses
+Expenses are costs incurred and expired in connection with the earning of
+revenue. An expense is a sacrifi ce made or resource consumed in relation
+to the revenues earned during an accounting period. It is to be noted
+that cost and expenses do not mean the same thing. Only costs that
+have expired during an accounting period are treated as expense. Costs
+incurred do not become expenses until the goods (or service) in question
+are exchanged or the accounting period in question is over (please refer to
+Box 1.1 to review the concept on Page 4).
+Expenses of a given period are:
+􀀁 Costs and expenses of the current accounting period. Th ese are costs
+incurred during the accounting period, which also expire during the
+same period. For example, cost of materials bought and sold during
+the same accounting period.
+􀀁 Costs incurred in a previous accounting period that become expenses
+or expired costs during the current accounting period. For
+example, inventory purchased during the previous period, but unsold
+during that period and sold during this period. Th e amount of
+inventory, which represented unexpired costs and hence, an asset at
+the close of the previous accounting period, becomes expired costs
+and is treated as an expense during the period in which it is sold.
+Measurement of Income 21
+􀀁 Expenses of this year, the monetary outlay for which will be made
+during a subsequent period. Th ese are also expired costs of the current
+period, but the costs are incurred by contracting a liability. For
+example, rent which is due for the current accounting period, but is
+to be paid in the next accounting period.
+As discussed earlier,
+Owners’ Equity + Liabilities = Assets
+Any transaction that has the eff ect of reducing the assets or increasing
+the liabilities, results in a decrease in the owners’ equity. Such a transaction
+is treated as expense. For example, rent paid for an amount say, Rs.
+5,000 will have the eff ect of decreasing an asset (cash) and consequently,
+decreasing the owners’ equity, hence, this Rs. 5,000 will be taken as
+expenses for the period.
+Classification
+All the costs (and expenses) incurred by a business can be grouped into
+two broad categories––inventoriable costs and non-inventoriable costs.
+Non-inventoriable Costs These are all other costs
+incurred during a period, which would not leave behind
+any value with the passage of time. Examples of such costs
+could be rentals paid for offi ces, interest paid on borrowings
+and so on. These are recognized as expenses with the
+expiration of the specifi c accounting period.
+􀀂􀀂􀀂
+􀀂􀀂􀀂
+Inventoriable Costs These are all those costs that can
+be directly or indirectly, traced or tracked to the goods or
+services in question and can be regarded as expiring with
+the passing of title to the buyer.
+􀀂􀀂􀀂
+􀀂􀀂􀀂
+22 How to Read a Profi t and Loss Statement
+Non-inventoriable costs are usually period costs and hence are to be
+matched against the revenues of the period. Example 3 will help clear any
+confusion with regards to inventoriable and non-inventoriable costs.
+Example 3: Maninder Singh
+Maninder Singh purchased merchandise worth Rs. 10,000 during the
+fi scal year 2009-10. Being adept at business, he sold half the merchandise
+during the period for Rs. 7,500. He incurred Rs. 2,000 as warehouse
+rent for storage of the merchandise. Now, at the end of the year, it was
+time to give a report on the fi nancial health of his business to his father.
+Confused with respect to the classification of a number of items, he
+called upon Anand Lakhotia to help him. Being good at accountancy,
+Anand accurately classifi ed the items on the following basis as depicted in
+Table 3.1.
+Table 3.1 Classifi cation of Items
+Item Remarks
+Cost of inventory
+Rs. 10,000
+The purchase prices of the
+merchandise.
+Increase in owners equity, i.e.,
+revenue
+Rs. 7,500
+The sale proceeds realized in exchange
+of one half of the merchandise.
+Expenses, i.e., expiration of
+inventoriable costs
+Rs. 5,000
+The cost of the merchandise parted
+with or given over to the customer
+in exchange for the revenue. The
+reduction in owner(s) equity as a result
+of reduction of inventory. The cost with
+respect to the revenue earned and
+hence expired cost.
+Expenses, i.e., expiration of noninventoriable
+costs
+Rs. 2,000
+The cost of rent for the facility is a cost
+incurred during the period and expiring
+during the period, that is, a period cost.
+Note here, that the entire cost of Rs.
+2,000 is taken as expenses and it is not
+apportioned between sold and unsold
+inventory.
+Ending inventory
+Rs. 5,000
+The unexpired cost and hence an
+asset. A merchandise inventory as a
+convention is valued at cost.
+Measurement of Income 23
+Different Account Period Items
+We can observe that there are the two following ways by which the
+cash paid and the expenses related to (the cash paid), occur in diff erent
+accounting periods:
+1. Cash is paid prior to the incurrence of expense. In this case, at the time
+of payment of cash, an asset, classifi ed as prepaid expense is created, an
+example of which would be prepaid rent.
+2. Cash is paid after the incurrence of expense. In this case, at the time
+the expense is incurred as a liability, classifi ed as accrued or outstanding
+liability is created. Examples of this would be outstanding salary and
+taxes payable.
+Characteristics of Expenses
+􀀁 Expenses are incurred for the purpose of generating revenue or
+benefi t.
+􀀁 Benefi t is usually derived during the same accounting period.
+􀀁 It is related to a particular period. However, the payment can be
+made before the recognition of the expense or afterwards.
+􀀁 An expense leads to decreases in the owner’s equity.
+As already mentioned, expenses of an accounting period are
+subtracted from the revenues of an accounting period to give income of
+the accounting period. Hence,
+Revenues – Expenses = Income
+Before we go into the next chapter and come across more concepts,
+we present below the Profi t & Loss Account of a listed company, Mro-tek
+Limited (with a hope that this creates some more interest to the reader):
+24 How to Read a Profi t and Loss Statement
+Table 3.2 Profi t and Loss Account of MRO-TEK Limited for the
+Year Ended March 31, 2009
+31 March
+2009
+31 March
+2008
+INCOME
+Domestic Sales 12,918 13,936
+Exports 630 788
+13,548 14,724
+Less: Excise Duty 1,334 1,498
+Net Sales 12,214 13,226
+Other Income 736 726
+TOTAL INCOME (A) 12,950 13,952
+EXPENDITURE
+Cost of Goods Sold 9,526 8,781
+Administrative &
+Selling Expenses
+2,217 2,743
+Financial Charges 513 18
+Depreciation 260
+TOTAL EXPENDITURE
+(B)
+12,525 1,802
+PROFIT BEFORE
+TAXATION (A – B)
+425 2,150
+Provision for Taxation 70 566
+Fringe Benefi t Tax 16 19
+PROFIT AFTER
+TAXATION
+339 1,565
+APPROPRIATIONS
+Dividends 222 666
+Transfer to General
+Reserve
+40 160
+Surplus carried to
+Balance Sheet
+739
+Provides detail as to which
+products or services are major
+revenue items; it presents the
+sales, discounts, allowances
+and other related information
+to arrive at the net sales.
+It indicates the income earned
+or gains resulting from nonoperative
+transactions.
+It is the cost to the company
+to generate the sales shown
+in Sales above.
+These are the costs associated
+with running the company
+as opposed to the costs
+of making or buying the products.
+It includes items such as
+salaries, rents, printing & stationery,
+legal expenses, consulting,
+agents commission,
+advertising expenses, audit
+fees, etc.
+After subtracting fi nance
+charges and depreciation, an
+amount on which the company
+expects to pay taxes.
+This is the amount the
+company expects to pay in
+taxes for the period.
+This is the profi t the company
+has earned for its equity
+investors (owners).
+Companies periodically share their
+gains with their owners (shareholders)
+by paying dividends.
+A n income statement is a summary of all the accounts dealing with
+transactions relating to revenue and expenses.
+It is an account which shows the revenue generated from sale of
+goods and services and expenses incurred against such revenue, over an
+accounting period. It is also referred to as a Profi t and Loss Account or
+Revenue Account. A new term that we came across in this defi nition.
+Account
+An account is a statement, wherein information relating to an item or
+a group of similar items is accumulated. Such information is accumulated
+in a way that makes it very easy to display, summarize and analyze such
+information. An income statement is nothing but a summarization of all
+such individual accounts, relating to the elements of expense and revenue.
+To reiterate, the balance sheet equation:
+Owner(s) equity + Liabilities = Assets
+We also observed in Box 2.1 on Page 12 that:
+Owner(s) equity = Owner(s) capital + Reserves and surplus +
+Retained profi ts of the company
+Preparation of Income Statement
+4
+C H A P T E R
+26 How to Read a Profi t and Loss Statement
+Total dividends and drawings refer to that portion of the profi ts that
+is distributed to the owners of the business. Th e profi t left is used to
+conduct business by the company. Now, in the preceding mathematical
+presentation, the retained profi t of the company is nothing but the profi t
+earned by the company less total dividends and drawings. Hence, it is
+also known as profi t reinvested or profi t ploughed back in the business. So,
+the retained profi ts can be written as:
+Retained Profi ts = Profi ts – Total dividends and drawings
+Now, since profi ts are nothing but revenue less expenses, the formula
+for retained earnings may also be expressed as:
+RE = R – E – D
+where,
+RE = Retained earnings
+R = Revenue (or sales)
+E = Expenses
+D = Dividends and drawings
+Readers, to do well, go through the above discussion once again.
+Let us now understand the discussed concepts with the help of an example.
+Example 4: Ramsons
+During an accounting period, Ramsons buys 12 units of inventory for
+Rs. 1,200. Another 10 units are purchased on credit, for Rs. 1,000. As many
+as 15 units of inventory were sold during the period, on credit, for Rs. 2,250.
+Five units of inventory were sold for cash, for Rs. 750, during the same period.
+We are required to prepare the profi t and loss account of Ramsons for the given
+period.
+Preparation of Income Statement 27
+To prepare the profi t and loss account for the period, we would have
+to identify the realized revenues for the period and the corresponding
+expired costs or expenses (Table 4.1) to be matched against such revenue.
+Table 4.1 Realized Revenue
+Revenue of the period Amount (Rs.)
+15 units sold on credit 2,250
+5 units sold for cash 750
+Total 3,000
+We have recognized Rs. 3,000 as realized revenue, irrespective of
+whether cash is collected or not. In other words, for the purposes of
+revenue recognition, both credit and cash sales are recognized as realized
+revenue. Now, the expenses of the period or expired costs will have to be
+reckoned with in relation to the realized revenues.
+Th e total cost incurred during the period is Rs. 2,200, for 22 units of
+inventory. Th e costs incurred during the period are also reckoned without
+having reference to whether the costs are actually paid for in cash or not.
+Th e costs being incurred resulted in the acquisition of an asset, namely,
+inventory.
+In order to determine the expense of the period, we have to take
+recourse to the realization of the revenue. What portion of the unexpired
+cost expires in the process of earning the revenue? Th at expired portion of
+the asset is the expense of the period.
+In our example, 20 units of inventory were parted with for earning the
+revenue. Th us, Rs. 2,000, the cost of 20 units of inventory, is the expired
+cost or expense for the period. Remember, that part of this inventory was
+purchased on credit. Th erefore, it follows that the expense in accounting
+need not imply a decrease in cash, just as revenue need not imply an
+increase in it.
+The two units of inventory, costing Rs. 200, remaining unsold
+are assets or the unexpired cost and have no relevance to the idea of
+measurement of profi t. Now to summarize, see Table 4.2.
+28 How to Read a Profi t and Loss Statement
+Table 4.2 Summary
+Revenue of the period Amount (Rs.)
+15 units sold on credit 2,250
+5 units sold for cash 750
+Total revenue of the period 3,000
+Less: Cost of goods sold or expired cost of inventory 2,000
+Profi t of the period 1,000
+Revenue minus expense or profi t of the period is Rs. 1,000. We can
+present the same formally in Table 4.3.
+Table 4.3 Ramsons Profi t and Loss Account
+(For the accounting period)
+Expenses Amount (Rs.) Revenues Amount (Rs.)
+Cost of goods sold 2,000 Sales 3,000
+Profi t for the period 1,000
+Total 3,000 Total 3,000
+Table 4.4 Ramsons Balance Sheet at the End of First Period
+Assets Amount (Rs.) Liabilities Amount (Rs.)
+Current assets Owner(s) equity
+Cash 750 Contributed capital 3,000
+Receivables 2,250 Profi t 700
+Inventory 700
+Total 3,700 Total 3,700
+In the case of Ramsons, we dealt with only direct revenue and direct
+expense. Revenue arose from two sale transactions––one on credit and the
+other on cash. Th e expense was one simple direct item of expense––the
+cost of sale or the recognition of expiration of inventory cost. Before we
+Preparation of Income Statement 29
+proceed to study a more complex example and a detailed profi t and loss
+account we must discuss some of the expenses or cost expirations, which
+cannot be traced so directly as in the case of cost of goods sold and are
+mostly of the nature of indirect expenses.
+Th ere are expenses that are to be incurred by a business, such as
+rent, interest, and advertising, which are fairly diffi cult to be traced to
+particular units of revenue for the purpose of matching. At the same
+time, it is obvious that the cost incurred on these items does not create
+any discernible benefi ts in a future period or create a value that can be
+exchanged. Th ese costs are generally attributable to the revenue earning
+power of an accounting period and can be safely considered as expired costs
+in relation to the realized revenues of a period. Th ese costs are sometimes
+referred to as period costs and matched against the revenue of the period
+without tracing a direct relation to the revenues. Based on this discussion,
+we present two important equations (see Box 4.1).
+Box 4.1 Income Statement and Balance Sheet Equations
+Income statement equation
+Retained earnings during a period = Revenue – (Expenses
++ Dividends)
+Balance sheet equation
+Assets = Liabilities + (Contributed capital + Accumulated
+retained earnings)
+Readers can try to look at example 4 on page 26–28 using the two
+equations, to see if the balance sheet and income summary created go
+with each other. Before we get into a real life income statement we will
+spend a little more time on understanding the various types of profi ts that
+we come across in the corporate language.
+30 How to Read a Profi t and Loss Statement
+Various Types of Profit
+Th e profi t and loss account refl ects the fi nancial health of a company.
+Th ere are diff erent proportions of profi t and loss which are addressed by
+separate expressions.
+Gross Profit
+Th e gross profi t or gross margin is obtained by subtracting the cost of
+goods sold from the sales revenue. Direct costs in the production of goods
+or in the delivery of services are part of the cost of goods sold. Th us, in a
+manufacturing enterprise the raw materials that go into making a fi nished
+product are part of cost of goods sold. A detailed discussion with respect
+to the cost of goods sold will follow later in the chapter.
+Operating Profit
+Operating profit is the figure obtained after subtracting operating
+expenses from gross profi t. Operating expenses are those expenses which
+the business incurs in the normal course of operations like personnel,
+depreciation and other expenses2. Operating profit is the surplus
+generated by the normal operations of the company. Th e company,
+irrespective of the method of fi nancing, earns this amount. Th is is a
+measure of the operational effi ciency of the company3. We will discuss
+operating profi t and operating expenses of a company in more detail,
+later in the chapter.
+2Expenses such as interest, fi nance charges/fees, expenses incurred in the process of selling of a fi xed
+asset, one-time registration costs, which do not form part of the operating expenses are known as
+non-operating expenses.
+3Since it does not cover non-operating activities such as interest cost (of a loan) and sale/purchase
+of investments, hence non-operating incomes and expenses which are related to investment or sale
+of assets are excluded from this.
+Preparation of Income Statement 31
+Profit Before Interest & Tax (PBIT)
+It is the fi nal profi t of the company before deducting any interest or
+tax from it. It is a good measure of the managerial performance of the
+company. It is obtained by subtracting non-operating expenses (except
+interest) from operating profi t.
+Profit Before Tax (PBT)
+It is the fi nal profi t of the company before deducting any tax from it.
+We can obtain this by simply deducting interest from PBIT. So, it clearly
+Bholuram: What do you mean by the normal operations of
+the company?
+Finnova: Look Bholu, a business or a fi rm is set up to perform
+a particular activity. It regularly performs that activity and
+derives profi t by virtue of performing that activity. Such
+operations and such income, derived from the main-line
+of the business is known as operating income/operating
+profi t. Apart from this core activity, a fi rm may also end
+up deriving profi t from certain other non-core activities of
+the business. These activities fall outside the purview of the
+normal operations of the business and any income derived
+from these are known as non-operating income. To give you
+an example, a wholesale vegetable vendor may derive some
+income, both from selling vegetables and from interest that
+it earns as a result of providing a credit facility to one of the
+customers. Here, income derived from selling of vegetables
+forms the core activity of the grocery store and is classifi ed
+as operating income, while interest income earned is derived
+from an activity that does not form part of the core activity
+of the business and is incidental to it. Such income is
+hence, classifi ed as non-operaing income. We will list more
+examples of non-operating income, later in the chapter.
+Bholuram: That reminds me that I have to purchase
+some vegetables for home. Otherwise, I will get a good
+thrashing!!
+32 How to Read a Profi t and Loss Statement
+gives a fair view of activities and profi t of the company without the burden
+of taxation.
+Profit After Tax (PAT) or Net Profit
+As the name indicates, it is obtained by deducting tax from PBT. It is
+the net income earned by a company after providing for tax and hence
+measures the net earnings to the owners of the company, that is, its
+shareholders.
+Profit Available for Distribution
+Th is is obtained by summing up PAT and the retained earnings from
+previous years, that is, the surplus balance of Profit or Loss Account
+raking from previous years. Th is is named so, as this fi gure gives us the
+total amount that the company can distribute to the shareholders of the
+company as dividends or withdrawals. Th is quite obviously includes the
+current year and the past year surpluses/profi ts (to the extent that have
+not been already distributed).
+Appropriations
+Th is is the last disclosure in the income statement and is fi gured out at
+its very bottom. It gives us the way in which the fi nal profi t available
+for distribution is actually disposed off by the company. Appropriation
+includes items such as:
+(i) Transfer to reserves: Th e part of the profi ts that the company retains
+in the business.
+(ii) Dividend to be paid to the shareholders: Th e part of the profi ts that
+are distributed to the share holders as dividends.
+Preparation of Income Statement 33
+Retained Earnings
+It is normally derived by deducting the dividend to be paid to shareholders
+from the profi t available for distribution. Th e discussed profi t types may be
+easily represented in fl ow chart 4.1.
+Flow Chart 4.1 Contents of Profi t and Loss Account
+Sales (or revenues)
+Less: Cost of goods sold
+↓
+Gross profi t
+Less: Operating expenses
+↓
+Operating profi t
+Less: Non-operating expenses
+↓
+Profi t before interest and tax (PBIT):
+Less: Interest
+↓
+Profi t before tax (PBT):
+Less: Tax
+↓
+Profi t after tax (PAT):
+Add: Previous year’s balance of P&L A/C
+↓
+Profi t available for distribution:
+Less: Appropriations
+↓
+Retained earnings
+34 How to Read a Profi t and Loss Statement
+Form and Contents of Profit and Loss Account
+So far, we have discussed the profi t and loss account in the accounts
+format, i.e., listing all the revenues earned on the right hand side and all
+the expenses incurred on the left hand side4. It is also a common practice
+to present the revenue and expense information in a summarized statement
+form and to provide the details in attached schedules. Th e method of
+presentation does not alter the results in any case, since the relationship
+is always:
+Revenue – Expense = Profi t (or Loss)
+We give below, a summarized income statement of one imaginary
+company, Arati Tools India Limited in both the formats. We shall discuss
+the items presented subsequently. Most of the subsequent discussions
+would be based on this company’s income statement.
+Table 4.5 Accounts Format
+Profi t and Loss Account of Arati Tools India Ltd. for the Year
+Ended December 31, 2009
+(All fi gures in Rs. millions)
+Debit Credit
+Schedule Amount Schedule Amount
+Cost of goods
+sold
+3 130 Sales net 1 255
+Gross profi t 130 Other income 2 5
+260 260
+Personnel
+expenses
+4 49 Gross profi t 130
+Depreciation 5 11
+Other
+expenses
+6 28
+4In accounting, the left hand side of an account format in the T-form is referred to as the debit
+(Dr.) side and amounts recorded on the left side of an account are referred to as debit amounts.
+Th e right hand side of a T-account format is referred to as the credit (Cr.) side and amounts recorded
+on this side are referred to as credit amounts. To avoid confusion in understanding, please
+do not attach any further meaning to debit and credit than that they are on left and right side of
+the account respectively.
+Preparation of Income Statement 35
+Operating
+profi t
+42
+130 130
+Interest 7 12 Operating
+income
+42
+Profi t before
+taxes
+30
+42 42
+Income tax
+provision
+12 Profi t before
+taxes
+30
+Net profi t after
+tax
+18
+30 30
+Alternately, the same profi t and loss account can be presented as
+follows:
+Table 4.6 Statement Format
+Profi t and Loss Account of Arati Tools India Ltd. for the Year
+Ended December 31, 2009
+(All fi gures in Rs. millions)
+Schedule Amount
+Sales net 1 255
+Other income 2 5
+Total revenue 260
+Cost of goods sold 3 130
+Gross profi t 130
+Operating expenses
+Personnel 4 49
+Depreciation 5 11
+Other expenses 6 28
+Operating profi t 42
+Interest 7 12
+Profi t before taxes 30
+Income tax provision 12
+Net profi t after tax 18
+Th e summarized profi t and loss account will be accompanied by
+schedules, providing details for various items forming the total. For
+example, Schedule 7, which corresponds to interest, will contain details
+36 How to Read a Profi t and Loss Statement
+with respect to the diff erent loans against which the interest is paid, the
+rate of interest applicable, the bank to which the interest is paid, etc.
+Sales
+Th e net sales amount shown in the profi t and loss account is after
+deductions (worth Rs. 5 million) from gross sales. Schedule 1 provides
+the detailed break-up of the sales, by diff erent divisions of the company,
+as also by domestic market and export sales. We observe that Arati
+Tools earns its maximum revenue from its machine tools and watch
+divisions.
+Table 4.7 Break-up of Sales
+Schedule 1: Sales Rs. (millions)
+Gross sales 260.00
+Less: Sales returns and allowances 1.75
+Sales discount 3.25 5.00
+Net sales 255.00
+Domestic:
+Machine Tools group 83
+Watch group 87
+Tractor group 60
+Lamp group 13
+Dairy Machinery group 2
+Total domestic sales 245.00
+Export:
+Machine Tools Group 6
+Watch Group 2
+Others 2
+Total export sales 10.00
+Preparation of Income Statement 37
+Sales Returns and Allowance
+Sales records are prepared as and when goods are shipped to customers.
+Th e customers may return goods that are not according to specifi cations,
+are damaged or defective and in such cases, a refund of the sale is made.
+If the transaction was a credit sale, the account receivable in question
+will be cancelled. It is also a usual practice for the customer to retain the
+goods and an allowance may be made to compensate the customer for the
+damage, change in specifi cation, or any other deviation from the order.
+Such refunds or allowances are separately accumulated and accounted
+for, for the purpose of monitoring and control by the management. As
+shown in Schedule 1 of Arati Tools, at the time of preparation of the profi t
+and loss account, such allowances are set off against the gross sales and
+the net sales are taken as the operating revenue earned. Many companies
+may not disclose this information in published accounts as competitors
+may use it to their advantage.
+Sales or Cash Discount
+Sales discounts are reductions from the invoice price (gross sales price
+without accommodating cash discounts), granted for prompt payment of
+the invoice, within a specifi ed time limit. Th ese reductions are sometimes
+called cash discounts. In our illustration, Arati Tools allowed Rs. 3.25
+million as discounts to customers.
+It is a usual practice to state the discount off ered to a customer on the
+invoice. Th e terms of payment with regards to the amount of discount,
+conditions for discount, etc., are usually presented in short forms or
+symbols.
+Examples of such short forms are:
+􀀁 ‘Net amount’ or ‘No cash discount’ – (N);
+􀀁 ‘Net Amount due at end of the Month’ – (N/EOM);
+􀀁 Net amount due in 30 days of invoice, no cash discounts –
+(N/30);
+􀀁 A 3 percent discount if payment is made in 10 days, otherwise net
+amount to be paid in 30 days – (3/10, n/30).
+38 How to Read a Profi t and Loss Statement
+We will just explain the last item – 3/10, n/30; in some greater detail.
+An invoice of 3/10, n/30 states that a three percent discount is off ered
+if payment is made within 10 days. It also implies that if payment is
+not made within 10 days, the normal credit of 30 days can be availed.
+Suppose you have an invoice of Rs. 1,000 with ‘3/10, n/30’, you are
+losing three percent for 20 days’ credit. Converting this 3 percent for 20
+days interest to annual terms, would cost you 360/20 x 3% = 60% per
+annum in equivalent interest! Th is knowledge will defi nitely help you in
+planning your short-term fi nances more eff ectively.
+A company can have diff erent terms of payment for diff erent type
+of customers. Usually, terms of payment depend on factors such as past
+track record and credit reputation of the customer. A big customer with a
+good track record will obviously be given better credit terms than a small
+one with an uncertain track record.
+Trade Discount
+You will not fi nd a mention of trade discount in the profi t and loss
+accounts. It is a usual practice to make the adjustment for trade discount
+while calculating the invoice price itself. So, if sales price is Rs. 100 and
+a trade discount of 10 percent is allowed, the invoice price mentioned
+would be for Rs. 90 (being equal to Rs. 100 minus Rs. 10 by way of trade
+discount). Trade discounts are in general used when a manufacturer makes
+bulk sales to a wholesaler, or a wholesaler makes large sales to a retailer.
+Box 4.2 Cash and Trade Discount
+Bholuram: Hey Finnova! Will a company offer both Cash
+Discount and Trade Discount?
+Finnova: Bholu, now I can see a glimpse of brain in you.
+Yes, companies can and do offer both cash discounts and
+sales discounts simultaneously. Larger a company is and
+larger is the size of the order - the more attractive (large)
+will be the cash discount and trade discount. While cash
+discount offered will be visible in the invoice but the trade
+discount offered will not be visible in the invoice note.
+Preparation of Income Statement 39
+Non-operating Income/Other Income
+Th e revenue earned by an enterprise is usually bifurcated into two parts,
+operating income and non-operating income. As mentioned earlier
+(in Box 4.2), operating income usually refers to the income derived from
+the main-line operations of the business. Other income usually arises
+from activities incidental to the business. Schedule 2 (Table 4.7) lists the
+details of income from non-operating receipts by Arati Tools India Ltd.
+Table 4.8 Income from Non-operating Receipts
+Schedule 2: Other income Rs. (millions)
+Interest – banks 0.50
+Interest – staff and offi ces 1.20
+Export incentives 1.80
+Sales agency commission 0.50
+Profi t on sales of assets 0.30
+Dividend on trade investments 0.20
+Other miscellaneous income 0.50
+Total 5.00
+Cost of Goods Sold
+Th e computation of the cost of goods sold is very complex in the case of a
+multi-product, multi-division company, where you have large quantities
+of semi-fi nished goods. In fact, the whole discipline of costing is primarily
+concerned with calculating the cost of goods sold. However, in simple
+cases where a trader deals in commodities and where each unit bought
+Bholuram: Got it! In such a case, the next time we do
+business with each other, I would prefer a trade discount
+from you and hefty one there. I would also eagerly look
+forward to some sales allowances from you.
+40 How to Read a Profi t and Loss Statement
+can be identifi ed, costing becomes much easier aff air. In order to calculate
+the cost of goods sold, we start the computation with the inventory that
+we have carried forward from the previous period and add all the expenses
+pertaining to the manufacturing part of the specifi ed good. For example,
+in Table 4.5, we start with the inventory as on January 1, 2009. Further,
+we add all the costs associated with the manufacturing of the goods in
+the year, i.e., purchase of material (purchase, other direct material costs),
+costs of material transportation (freight inwards) and cost of manufacturing
+(power, fuel). Th is provides us with the total goods that we have at our
+disposal for potential sale. Th en we subtract the raw material and work in
+progress inventory at the end of the accounting period. Th is provides us
+with the total fi nished goods that we have at our disposal for potential sale.
+From this fi gure, we fi nally deduct the fi nished goods that is not sold during
+the period (i.e., retained and is classifi ed as fi nished goods inventory) to get
+the cost of goods sold in this fi nancial year. Th e cost of the goods sold in
+summary, presented in our illustration of Arati Tools India Limited, can be
+understood more clearly from Schedule 3.
+Table 4.9 Cost of Goods Sold
+Schedule 3: Cost of goods sold Rs. (millions)
+Inventory on January 1, 2009 81.00
+Add: Purchase 110.00
+Freight-in 10.00
+Other direct material costs 10.00
+Fuel 3.00
+Power 2.00
+Total goods available 216.00
+Less: Raw material and semi fi nished inventory on December 31,
+2009
+71.00
+Goods available for sale 145.00
+Less: Finished goods inventory on December 31, 2009 15.00
+Cost of goods sold 130.00
+Preparation of Income Statement 41
+Gross Profit
+Gross profi t or gross margin obtained by subtracting the cost of goods
+sold from the sales revenue, has great signifi cance for a company. Th e
+cost of goods sold usually refl ects the direct input costs and to a great
+extent, is variable with the volume of operations. In other words, cost
+of goods sold per unit of sales, is a fi xed ratio. Th e gross profi t, which is
+left after deduction of cost of goods sold, should be suffi cient to cover all
+other operating expenses of the business. Only then will the business be
+viable and expected to turn a profi t. Certainly, companies by and large
+try to maximize their gross profi ts by maximizing their total sales using
+the best combination of sales price and volume of business. Given a fi xed
+sales price, management and control of the gross margin will depend on
+improving the cost effi ciency of operations and procurement.
+Operating Expenses
+Th e cost of goods sold normally includes all costs of making the inventory
+available for sale, and are directly or indirectly traceable to the inventory to
+be sold. Examples of such costs would be cost of raw materials and cost of
+labour that went into making the goods. Apart from such costs, a fi rm also
+incurs some expenses towards running of its day to day aff airs and managing
+the enterprise as a whole, like salary paid to the offi ce staff , cost of stationery
+and rent paid for offi ce. All those expenses, which are necessary to run the
+business enterprise or the organization, which are not directly associated
+with the company’s output on a cause and eff ect relationship, are usually
+termed as operating expenses. It is possible to accumulate these expenses on
+the basis of material, personnel and other expenses, as in the case of the
+profi t and loss account of Arati Tools India Limited.
+Personnel Expenses
+Personnel expenses include remuneration and other benefi ts to the staff
+and workmen. Schedule 4 details the expenses on account of personnel
+for Arati Tools.
+42 How to Read a Profi t and Loss Statement
+Table 4.10 Personnel Expenses
+Schedule 4: Personnel expenses Rs. (millions)
+Salaries, wages and bonus 37.81
+House rent allowance 2.19
+Gratuity 0.75
+Contribution to provident fund 2.75
+Contribution to employees state insurance (ESI) 0.50
+Workmen and staff welfare expense 5.00
+Total 49.00
+Depreciation Expense
+Depreciation is the expiration of costs of fi xed assets. It is a usual practice
+to classify the depreciation expense according to the diff erent groups of
+assets. In case of Arati Tools, Schedule 5 gives the break-up of depreciation
+for the diff erent groups of assets. We will discuss depreciation in more
+detail in a separate chapter.
+Table 4.11 Depreciation
+Schedule 5: Depreciation Rs. (millions)
+Fixed assets 9.84
+Tools and Instruments 0.02
+Patterns, jigs and fi xtures 1.14
+Total 11.00
+Other Expenses
+All the expenses other than those disclosed separately, are usually grouped
+together as other expenses. Th ese expenses are relatively very small when
+considered as individual items. It is still customary to give, a detailed
+break-up of the major items of operating expenses other than personnel,
+depreciation and fi nancing costs. In case of Arati Tools, the details are
+provided in Schedule 6.
+Preparation of Income Statement 43
+Table 4.12 Other Expenses
+Schedule 6: Other Expenses Rs. (millions)
+Power and fuel 3.10
+Rent 0.50
+Rates and taxes 0.40
+Insurance 0.50
+Water and electricity 0.60
+Repairs to buildings 0.20
+Repairs to machinery 0.80
+Printing and stationery 0.90
+Advertisement and publicity 2.40
+Training 0.10
+Audit fees 0.05
+Royalties 0.85
+Sole selling and other agents commission 4.70
+Director(s)’ fees 2.00
+Provision for bad debts and advances 0.20
+Loss on assets sold or discarded 1.30
+Provision for warranty repairs 1.00
+Miscellaneous expenses 8.40
+Total 28.00
+Operating Profit
+Operating profit is the figure obtained after subtracting personnel,
+depreciation and other expenses, from the gross profi t. Th e only other
+major expense to be met at this stage is the interest expense. Th us,
+operating profi t is the surplus generated by the operations of the company.
+Th e company, irrespective of the method of fi nancing (as interest is not
+accounted for), earns this amount. Th is is a measure of the operational
+efficiency of the company. This is also referred as Operating Profit
+before Interest and Taxes (OPBIT) or Earnings before Interest and Taxes
+(EBIT).
+44 How to Read a Profi t and Loss Statement
+Interest Expense
+Th e management has the option to fi nance the assets from exclusively
+owner(s)’ equity or with a combination of owner(s)’ equity and borrowed
+funds (usually, through long-term liabilities). Th e interest part comes in
+if the management decides to use borrowed funds to fi nance either part
+or whole of the entity’s assets from borrowed funds. In that case, interest
+is the compensation paid by the company to the lenders for parting
+with their money for a specifi ed time. In the corporate world, most of
+the business entities use some amount of borrowed funds to fi nance
+themselves. Schedule 7 (Table 4.12) shows the diff erent items of interest
+commitments of Arati Tools.
+Table 4.13 Items of Interest
+Schedule 7: Interest Rs. (millions)
+Debentures 0.58
+Fixed deposits 1.50
+Loans from Government 5.00
+Term loans from banks/fi nancial institutions 0.42
+Cash (packaging) credit from banks 3.50
+Others 1.00
+Total 12.00
+Net Profit before Tax
+Net profi t before tax is the surplus after meeting all expenses, including
+interest. Th is is the profi t available to the company as a result of both its
+operating as well as fi nancing performance.
+Income Tax
+Th e profi t before tax determines the level of taxation. As per tax laws, the
+amount of tax payable is not determined on the basis of the reported net
+Preparation of Income Statement 45
+profi t. In most cases, some reclassifi cation and adjustments have to be
+made to the profi ts arrived at by the fi rm to compute the taxable profi t.
+Th ese adjustments have to be made to accommodate the various income
+tax laws, provisions of which usually diff er from the general accounting
+practices followed by the fi rm.
+To give you an example, tax laws in most countries, provide for tax
+concessions for investment in fi xed assets, research and development,
+and so on. Th ese allowances reduce the amount of tax payable by the
+company during the year in which such benefi t is availed. Again, in most
+countries, tax concessions are also applicable to companies which earn
+income by way of exports in select sectors and for setting up investments/
+infrastructure in backward and underdeveloped regions.
+Net Profit or Profit after Tax
+Profi t after tax is the net amount of surplus earned by the company
+during the accounting period. Th is is the amount ultimately available
+to the company for appropriation, i.e., this amount can be either
+distributed as dividends to shareholders (owners) or retained in the
+business as retained earnings. Not distributing the profi t among the
+owners increases the owner(s) investment, that is, owner(s) equity in the
+business. From the shareholders perspective, the profi t after tax (PAT) or
+earnings after tax (EAT) is the most important performance indicator of
+the company.
+From the Corporate World
+ACC Limited (formerly, the Associated Cement Companies Limited)
+is India’s oldest and largest cement manufacturer. To give the readers a
+peek into the real world, we present the company’s consecutive income
+statements.
+46 How to Read a Profi t and Loss Statement
+Table 4.14 Income Statement—ACC Limited
+Profi t and Loss Account for the Financial Years 2006 to 2008
+Ended December 31
+(All fi gures in Rs. crore)
+Income FY 2008 FY 2007 FY 2006
+1. Sale of products and services
+(gross sales/turnover)
+8,259.77 7,848.32 6,504.46
+Less: excise duty recovered 951.15 857.64 653.22
+Less: sales discounts, sales returns,
+etc.
+130.95 114.08 120.41
+Sale of products and services (net
+sales/turnover)
+7,177.67 6,876.60 5,730.83
+2. Other Income (non-operating
+income)
+288.71 177.49 123.10
+Gross revenue 7,466.38 7,054.09 5,853.93
+Expenditure
+3. Manufacturing expenses 3,347.04 2,899.84 2,642.84
+Gross profi t 4,119.34 4,154.25 3,211.09
+4. Personnel expenses 413.04 353.27 322.54
+5. Depreciation 294.18 305.07 260.95
+6. Other expenses 1,637.56 1,491.75 939.77
+Operating income (or operating profi t) 1,774.56 2,004.16 1,687.83
+7. Interest 39.96 73.87 54.37
+Profi t before tax 1,734.60 1,930.29 1,633.46
+8. Corporate tax 521.81 491.70 393.86
+Profi t after tax (or net income) 1,212.79 1,438.59 1,239.60
+The importance of profi t and its measurement in accounting accords an
+important position to the income statement. However, it will be interesting
+to see how this fi nancial statement is related to the balance sheet. Figure 5.1
+captures the same.
+Table 5.1 Relation of Financial Statement with Balance Sheet
+t
+0 Accounting period - 1 t
+1 Accounting period - 2 t
+2
+Balance
+Sheet
+(t
+0)
+Profi t & Loss Account
+for the fi rst
+accounting period
+Balance
+Sheet
+(t
+1)
+Profi t & Loss Account
+for the second
+accounting period
+Balance
+Sheet
+(t
+2)
+In other words, both of them are links in the information chain which
+make up the life of the enterprise.
+While, balance sheet is a position statement at a point in time, income
+statement on the other hand summarizes an enterprise’s performance over
+a period of time.
+The ensuing discussion links both the financial statements of a
+business entity.
+Please recall the basic balance sheet equation we have learnt in the
+previous lesson. We will repeat it for your convenience.
+Assets = Liabilities + Owners’ Equity........ (1)
+Income Statement and
+Balance Sheet
+5
+C H A P T E R
+48 How to Read a Profi t and Loss Statement
+Here we need to keep in mind, that the owner(s)’ capital need
+not be equal to the contributed capital, that is, the amount of capital
+contributed to the capital by the owners; and is normally not the case.
+In fact, the owner(s)’ equity changes with every sales transaction. How
+does this happen? Th e following two changes take part with every sales
+transaction:
+􀀁 Th e amount of sales revenue realized increases owner(s) equity.
+􀀁 Th e cost of goods parted with decreases owner(s) equity.
+Th erefore, the resultant increase in the owner(s) equity was equal
+to the net increase in the assets (sales revenue – cost of goods). Th at is,
+equal to the profi t. We explained an alternative representation of owner(s)
+equity in the previous lesson as being equivalent to:
+Owners’ Equity = Contributed Capital + Retained Earnings.... (2)
+Combining equations (1) and (2) results in the expanded balance
+sheet equation as shown below:
+Assets = Liabilities + Contributed Capital + Retained Earnings ... (3)
+Based on the discussion in the previous chapters, we could write the
+income statement relationship as follows:
+Retained earnings = Revenue – Expenses – Dividends.... (4)
+Now, by just putting this representation of retained earnings in
+equation (4) in the balance sheet equation (3), we will get the following
+equation for assets:
+Assets = Liabilities + Contributed Capital + Past Retained
+Earnings + Revenue – Expenses – Dividends.... (5)
+Th e last three terms in equation (5) are referred to as the profi t and loss
+account or income summary. Th us, we fi nd that the profi t and loss account
+is an integral part of any balance sheet, in that it is an expansion of one
+of the terms of the balance sheet. We reiterate our point with the help of
+Figure 5.1.
+Income Statement and Balance Sheet 49
+Figure 5.1 Balance Sheet and Profi t and Loss Account Relation
+In other words, equation (5) can be restated as follows:
+Assets = Liabilities + Contributed Capital + Beginning Retained
+Earnings Balance + Revenue – Expenses – Dividends ... (6)
+Th e resulting new balance sheet of the enterprise can also be presented
+as follows:
+Assets = Liabilities + Contributed Capital + Ending
+Balance Retained Earnings... (7)
+One can clearly make out that equations (5), (6) and (7) convey the
+same information in diff erent ways. Let us now discuss the role of balance
+sheet items in generating the income statement.
+Th e profi t and loss account measures the income generated by the
+entity. Th e income is generated from or with the use of its assets. Th us,
+the profi t and loss account measures and includes the revenue and income
+(which are part of the profi t and loss account) arising out of assets (which
+{Revenues for
+the Period
+End of Period
+Expenses for
+the period
+Beginning Balance
+of Retained
+Earnings
+Net Income
+(Loss) for the
+Period
+Dividends for
+the Period
+Ending Balance
+of Retained
+Earnings
+Start of
+the
+Period
++–
+–
+–
+=
+=
+¬ Profit and Loss A/c ®
+50 How to Read a Profi t and Loss Statement
+form part of the balance sheet). In Box 5.1, we uncover the essence of the
+requirement of the income statement again.
+Box 5.1 Need for An Income Statement
+Normally, most of the events and transactions aff ect the assets
+and/or liabilities and hence aff ect the balance sheet. A change
+in the owner(s)’ equity can either be brought about by a change
+in the owners’ contribution or by sale transactions. Usually, the
+transaction of sale of goods and services has a two-way impact on
+the position of the entity.
+􀀁 First, an asset increases, leading to an increase in owners’ equity.
+􀀁 Second, an asset decreases, leading to a decrease in owners’ equity.
+Therefore, subject to changes in the owners’ contribution, the
+comparison of the owner(s)’ equity between two periods will show
+the change in the owner(s)’ equity aff ected by retained earnings.
+This does not provide much knowledge about the operations
+of the business (say, in terms of size, profi tability of the business,
+etc.). Hence, in order to meet the information requirement, we
+summarized these transactions relating to revenue and expenses
+separately as income statement.
+We should also note that revenue and expenses relate to a period
+(an accounting period), and not to a point in time, like assets
+and liabilities. Recognition and measurement of the revenue and
+expense are based on the ideas of realization, accrual and matching.
+Th erefore, the income across an accounting period may be compared
+with the help of the data obtained from the profi t and loss account.
+Figure 5.2 gives us a peek into the corporate world. It links the income
+statement of Infosys Technologies Limited for the accounting period
+starting from April 1, 2008 to March 31, 2009, with the balance sheets
+of March 31, 2008 and March 31, 2009. At the start of the fi nancial year
+(FY) of 2009 Infosys had reserves and surplus balance at Rs 13,204 crore.
+Th e performance of Infosys Technologies in FY2009 added Rs 4,319
+crore to its reserve and surplus increasing it to Rs 17,523 crore as on
+March 31, 2009.
+Income Statement and Balance Sheet 51
+Figure 5.2 Infosys Technologies’ Limited Income Statement
+FY2009 and its Relation with Balance Sheets FY2008 and
+FY2009
+Now that we are pretty clear about the profi t and loss statement and
+its importance with regards to the balance sheet, let us look at some of the
+more relevant items of the balance sheet and their treatment.
+{Revenues for
+FY 2009 =
+Rs 20,264 Crores
+End of Period, i.e.,
+31st March 2009
+Starting Balance
+Reserve & Surplus
+Rs 13,204 Crores
+Net Income
+for FY 2009 =
+Rs.5,819 Crores
+Ending Balance
+Reserve & Surplus
+Rs. 17,523 Crores
+Start of the
+Period, i.e.,
++–
+–
+–
+=
+=
+¨ Profit and Loss A/c Æ
+Expenses for
+FY 2009 =
+Rs 20,264 Crores
+Dividends for
+FY 2009
+(including taxes)
+= Rs. 1,500 Crores
+The only thing certain with respect to prices is that they are not certain.
+Th is makes the process of recording inventory complex. Th ere may be
+situations wherein the price at which we buy and record goods may not
+remain the same over a period of time, resulting in complications with
+respect to their carrying cost. For example, a company may buy 200 kg of
+cotton at Rs. 5 per kg and hence record it at Rs. 1,000. Eventually, the price
+of cotton may rise to say, Rs. 10. Now, this presents a dilemma, whether to
+record it at Rs. 1,000 (Rs. 5 per kg) or Rs. 2,000 (Rs.10 per kg). Finding
+the exact price at which they need to be recorded becomes a bit diffi cult.
+Th ese issues make it necessary to evolve a uniform approach for charging
+the cost of materials sold. Hence, the rule followed is that the inventory is
+always recorded and charged to the profi t and loss account on the basis of
+its historical cost, that is, the price at which it is originally purchased. While
+it solves a part of the problem, still some room for confusion remains in real
+life as there are situations wherein diff erent quantities of the same good are
+purchased at diff erent prices at diff erent points in time. To get through this
+problem, there are three inventory valuation options at our disposal.
+First In First Out (FIFO)
+Th is is one of the most common systems of recording inventory. It assumes
+that the sales are made in the order at which they are purchased. Th e
+Inventory Valuation
+6
+C H A P T E R
+Inventory Valuation 53
+practical implication of this principle is as follows. Suppose that diff erent
+quantities of a good (say, a liquid commodity) are purchased at diff erent
+prices––Th e fi rst 200 litres at Rs. 10 per litre; the next 500 litres at Rs
+15 per litre; and the next 300 litres at Rs 20 per litre. Assume the entire
+purchase was stored in one tank. We have purchased a total of 1,000 litres
+of goods, each recorded at diff erent prices. Th e total amount at which the
+inventory would be recorded is as follows:
+(200 litres × Rs. 10 per litre) + (500 litres × Rs. 15 per litre) + (300
+litres × Rs. 20 per litre) = Rs. 15,500
+Suppose 400 litres of this particular good is sold during the same
+accounting period. Now, this presents a problem. How do we fi nd out
+as to which part of the above 1,000 litres of the good is sold? Quite
+logically, since the entire inventory was kept at one place with no clear
+separation, one would not be able to exactly pinpoint which portion of
+the inventory is sold. Hence, this situation would demand that we make
+certain assumptions. In the case of First In First Out (FIFO), we assume
+that the good that is bought fi rst will be the one which will be sold fi rst.
+In the above example, if we sell 400 litres of the good in question,
+then we will suppose that 200 litres of good bought at Rs. 10 per litre and
+200 litres of good bought at Rs. 15 per litre are the ones that have been
+sold. So, the inventory left with us would be:
+(300 litres × Rs. 15 per litre) + (300 litres × Rs. 20 per litre) =
+Rs. 10,500
+A completely opposite assumption is made in the case of Last In First
+Out (LIFO).
+Last In First Out (LIFO)
+Th is is an alternative way of recording inventory. Companies following
+this principle assume that ‘the goods which are bought last will be the one
+which will be sold fi rst’. Let us straightaway move into the example being
+discussed to understand this principle. Th e inventory of the business was
+as follows:
+54 How to Read a Profi t and Loss Statement
+(200 litres × Rs. 10 per litre) + (500 litres × Rs. 15 per litre) +
+(300 litres × 20 per litre) = Rs. 15,500
+A business following this principle would assume that out of the 1000
+litres, the portion of goods sold would be 300 litres bought at Rs 20 per
+litre and 100 litres bought at Rs. 15 per litre. So, the inventory left with
+the business would be:
+(200 litres × Rs. 10 per litre) + (400 litres × Rs. 15 per litre) = Rs. 8,000
+In this case, we see that inventory levels have fallen down to
+Rs. 8,000.
+One can observe how choosing diff erent inventory valuation methods
+(FIFO, LIFO, or WAC, which we will study next) changes a company’s
+cost of good sold and ending inventory position.
+Weighted Average Cost (WAC)
+Another possibility is to recalculate the cost of materials on a weighted
+average basis, after each purchase and sale. In this case, the inventory is
+recorded on the ‘weighted average cost’ (WAC). Again going back to the
+same example, the total purchase was:
+(200 litres × Rs. 10 per litre) + (500 litres × Rs. 15 per litre) +
+(300 litres × 20 per litre) = Rs. 15,500
+Now, the company has a total of 1000 litres of goods costing Rs.
+15,500 . Th e company will simply calculate the weighted average price
+of each litre of the good and assume it to be the cost of the inventory
+for future references. To illustrate, in this case, the cost of each inventory
+would be:
+Rs. 15,500 ÷ 1000 litres = Rs. 15.50 per litre
+In our example of a sale of 400 litres, the balance inventory remaining
+with this company would be valued at:
+600 litres × Rs. 15.50 = Rs. 9,300
+We now move on to a more comprehensive example to understand
+the treatment of inventory across these three methods. We take the help of
+Inventory Valuation 55
+tables to illustrate how the cost of inventory changes with each purchase
+and sale transaction.
+Box 6.1 FIFO, LIFO and WAC
+Example 5: Ismail Traders
+Table 6.1 shows purchase and sale transactions of Ismail Traders, traders of a
+particular commodity, during January 2009.
+Table 6.1 Computation of Profi t by FIFO, LIFO and WAC Methods
+Purchases
+Date Particulars No. of units Price per unit Amount
+1 Jan 09 Inventory 500 3 1,500
+5 Jan 09 Purchase 1,000 4 4,000
+10 Jan 09 Purchase 2,000 5 10,000
+15 Jan 09 Purchase 1,000 6 6,000
+20 Jan 09 Purchase 3,000 4 12,000
+25 Jan 09 Purchase 2,000 7 14,000
+Total 9,500 47,500
+Finnova: Hey Bholu! I can see you feeling sleepy. So, let me
+ask you a question. On 1 January, a bullion merchant started
+a business with cash worth Rs 26 Lakh. On 12 January and
+25 January he purchases one kilogram of Gold (each day)
+for Rs 12 Lakhs and 14 Lakhs respectively. On 31 January,
+he makes a sale of one kilogram of Gold for Rs 15 Lakhs.
+Now compute his profi t for the period using FIFO, WAC,
+and LIFO methods of inventory valuation.
+Bholuram: I am fully awake. And please do not ask me
+such easy questions. Sales for the period would be Rs 15
+Lakhs. The cost of sales using FIFO, WAC and LIFO
+methods would be on Rs 12 Lakhs, 13 Lakhs, and 14 Lakhs
+respectively. So the trading income for our bullion merchant
+would be Rs 3 Lakhs using FIFO method, Rs 2 Lakhs using
+WAC method and Rs 1 Lakh using LIFO method.
+Finnova: This is too much! You have made my day.
+56 How to Read a Profi t and Loss Statement
+Sales
+Date Particulars No. of units Price per unit Amount
+11 Jan 09 Sales 1,000
+14 Jan 09 Sales 500
+16 Jan 09 Sales 1,000
+21 Jan 09 Sales 2,000
+30 Jan 09 Sales 1,500
+Total 6,000
+31 Jan 09 Inventory 3,500
+Recognition of the cost of goods sold and inventory valuation on the
+basis of fi rst in fi rst out (FIFO) is shown in Table 6.2.
+Table 6.2 Ismail Traders: Inventory and Cost of Goods Sold under FIFO
+(All monetary fi gures in Rs.)
+Purchases Sales Inventory
+Date No. of
+units
+Price
+per
+unit
+Amount No. of
+units
+Price
+per
+unit
+Amount Price
+per unit
+No.
+of
+units
+Price
+per unit
+1 Jan 09 500 3 1,500
+5 Jan 09 1,000 4 4,000
+10 Jan 09 2,000 5 10,000
+11 Jan 09 500 3 1,500
+500 4 2,000 500 4 2,000
+2,000 5 10,000
+14 Jan 09 500 4 2,000 2000 5 10,000
+15 Jan 09 1,000 6 6,000 2000 5 10,000
+1000 6 6,000
+16 Jan 09 1000 5 5,000 1000 5 5,000
+1000 6 6,000
+20 Jan 09 3,000 4 12,000 1000 5 5,000
+1000 6 6,000
+3000 4 12,000
+21 Jan 09 1000 5 5000
+1000 6 6000 3000 4 12,000
+25 Jan 09 2,000 7 14,000 3000 4 12,000
+2000 7 14,000
+30 Jan 09 1500 4 6,000 1500 4 6,000
+2000 7 14,000
+Total 9,500 47,500 6000 27,500 3500 20,000
+Inventory Valuation 57
+Th e recognition of cost of goods sold and inventory valuation using
+the last in fi rst out (LIFO) method is shown in Table 6.3.
+Table 6.3 Ismail Traders: Inventory and Cost of Goods Sold under LIFO
+(All monetary fi gures in Rs.)
+Purchases Sales Inventory
+Date No.
+of
+units
+Price
+per
+unit
+Amount No.
+of
+units
+Price
+per
+unit
+Amount No.
+of
+units
+Price
+per
+unit
+Amount
+1 Jan 09 500 3 1,500
+5 Jan 09 1,000 4 4,000
+10 Jan 09 2,000 5 10,000
+11 Jan 09 1000 5 5,000 500 3 1,500
+1,000 4 4,000
+1000 5 5,000
+14 Jan 09 500 5 2,500 500 3 1,500
+1,000 4 4,000
+500 5 2,500
+15 Jan 09 1,000 6 6,000 500 3 1,500
+1,000 4 4,000
+500 5 2,500
+1000 6 6,000
+16 Jan 09 1000 6 6,000 500 3 1,500
+1,000 4 4,000
+500 5 2,500
+20 Jan 09 3,000 4 12,000 500 3 1,500
+1,000 4 4,000
+500 5 2,500
+3000 4 12,000
+21 Jan 09 2000 4 8.000 500 3 1,500
+1,000 4 4,000
+500 5 2,500
+1000 4 4,000
+25 Jan 09 2,000 7 14,000 500 3 1,500
+1,000 4 4,000
+500 5 2,500
+1000 4 4,000
+2,000 7 14,000
+30 Jan 09 1500 7 10,500 500 3 1,500
+58 How to Read a Profi t and Loss Statement
+1,000 4 4,000
+500 5 2,500
+1000 4 4,000
+500 7 3,500
+Total 9,500 47,500 6000 32,000 3500 15,500
+Table 6.4 demonstrates the recognition of cost of goods sold and the
+inventory valuation using the weighted average cost (WAC) method.
+Table 6.4 Ismail Traders: Inventory and Cost of Goods Sold under WAC
+(All monetary fi gures in Rs.)
+Purchases Sales Inventory
+Date No. of
+units
+Price
+per
+unit
+Amount No. of
+units
+Price
+per
+unit
+Amount No. of
+units
+Price
+per
+unit
+Amount
+1 Jan 09 500 3 1,500 500 3 1,500
+5 Jan 09 1,000 4 4,000 1500 5,500
+10 Jan 09 2,000 5 10,000 3500 4.429 15,500
+11 Jan 09 1000 4.429 4,429 2500 4.429 11,071
+14 Jan 09 500 4.429 2,215 2000 4.429 8,857
+15 Jan 09 1,000 6 6,000 3000 4.952 14857
+16 Jan 09 1000 4.952 4,952 2000 4.952 9,905
+20 Jan 09 3,000 4 12,000 5000 4.381 21,905
+21 Jan 09 2000 4.381 8,762 3000 4.381 13,143
+25 Jan 09 2,000 7 14,000 5000 5.4286 27,143
+30 Jan 09 1500 5.4286 8,142 3500 5.4286 19,000
+Total 9,500 47,500 6000 28,500 3500 19,000
+Table 6.5 shows the comparison of the results using the three diff erent
+valuation methods as a basis of recognition of the cost of goods sold and
+inventory.
+Table 6.5 Ismail Traders: Inventory and Cost of Goods Sold
+under FIFO, LIFO and WAC
+(All fi gures in Rs.)
+Valuation method Purchase cost Cost of goods
+sold
+Value of Inventory
+FIFO 47,500 27,500 20,000
+LIFO 47,500 32,000 15,500
+WAC 47,500 28,500 19,000
+Inventory Valuation 59
+From the illustration, we fi nd that the purchase cost is the same
+irrespective of the method of inventory valuation. However, the cost of
+goods sold and the value of inventory at the end of the period are diff erent
+for the three diff erent methods of inventory valuation. If we use FIFO,
+the cost of goods sold, which is based on the prices of inventory procured
+earliest, prior to sales, would amount to Rs 27,500. And the closing
+inventory of 3,500 units will be valued at Rs 20,000, representing the
+most current purchase prices. In the case of LIFO, we fi nd that the cost
+of goods sold, which is based on the most recent prices of the inventory
+purchased, is Rs 32,000. Th e closing inventory is valued at the prices of
+the earlier purchases at Rs 19,000. In the case of WAC, we fi nd that the
+cost of goods sold, which is based on the weighted average price of the
+inventory purchased, is Rs 28,500. Closing inventory is also valued at the
+weighted average price of Rs 19,000. In all the cases, inventory plus cost
+of goods sold would amount to the same, that is, Rs 47,500, since they
+are all based on the actual historical cost only.
+Here again, over the entire life of the entity, there will be no
+diff erence, irrespective of the method used in the valuation of the cost of
+goods sold. Th ere will also be no diff erence if the entire inventory is sold.
+Th e inventory valuation diff erences refl ect the eff ects of accounting periods
+on income measurement. It is also easy to recognize the fact that, if the
+business purchases its entire inventory at the same prices, then the choice
+of inventory valuation method will have no relevance and the cost of
+goods sold and inventory would be same for all the three methods.
+Box 6.2 Stock Trading
+Bholuram: Stop Stop Finnova !! You have really enlightened
+me, but I have a question. Very often I have come across
+the word “stock taking”. What does this mean?
+Finnova: Excellent observation Bholu. Let me explain this
+with an example.
+Stock Taking is a process wherein the physical inventory is
+taken of everything in the store periodically (usually, at the
+end of accounting periods). The principle for the inventory
+valuation is cost or market price, whichever is lower. It is
+60 How to Read a Profi t and Loss Statement
+done on a periodical basis while the yearend inventory
+valuation is done on the last week of the fi nancial year. If
+suppose the stock taking is done on 25th March, and the
+accounting year ends on 31st March, then there needs to
+be adjustment of purchases and sales done between 26th
+March and 31st March. The adjustments of the goods must
+be on the basis of cost.
+Let me explain using an example:
+Stock Take date – 26th March
+Year-end date – 31st March
+Actual stock on 26th March- Rs 75,000
+Purchases & Sales during 27-31st March
+Purchases – Rs 15,000
+Sales – Rs 25,000
+The sales are always with a margin of 25% on cost.
+The stock computation as on 31st March would be:
+Stock ascertained on 26th March - Rs 75,000
+Add: Purchases during 27-31st March - Rs 15,000
+Rs 90,000
+Less: Cost of goods sold during 27-31st March
+(25000 × 100/125) Rs 20,000
+Stock as on 31st March Rs 70,000
+Hence, the stock taken at the end of 31st March would be
+Rs. 70,000 (as shown above).
+B ased on the earlier chapters, one can deduce that the profi t and loss
+account incorporates all the revenue and expense transactions relating
+to business operations. It has been observed that the process of business
+operations is more complex in manufacturing fi rms and hence, this
+demands the preparation of a slightly extended version of the profi t and
+loss account. In a manufacturing concern, the profi t and loss account
+can be divided into four parts, i.e., the manufacturing account, trading
+account, profit and loss account and profit and loss appropriation
+account. Th ese accounts can be understood as follows:
+Manufacturing Account
+During a given accounting period, the manufacturing account provides
+us with the cost of goods manufactured by the manufacturer. Th is is
+the reason why many organizations that do not perform manufacturing
+operations, do not prepare this account. For example, M/s Rasiklal
+Daruwala & Co. is a manufacturer of sports goods. For the year ended
+March 31, 2009, the following transactions took place:
+􀀁 Raw material purchased Rs. 60,000
+􀀁 Productive wages Rs. 20,000
+􀀁 Power and fuel consumed Rs. 10,000
+􀀁 Rent of factory Rs. 5,000
+Income Statement of a
+Manufacturing Concern
+7
+C H A P T E R
+62 How to Read a Profi t and Loss Statement
+It is also known that there was a stock (inventory) of work-in-progress
+as on the beginning of the year, amounting to Rs. 40,000 and the closing
+stock of work-in-progress is Rs. 10,000. Th e opening and closing stocks
+of raw material were Rs. 5,000 and Rs. 15,000 respectively.
+In the above case, the manufacturing account of M/s Rasiklal
+Daruwala & Co. shall be as follows:
+Table 7.1 Manufacturing Account of M/s Rasiklal Daruwala & Co.
+for the Year Ended March 31, 2009
+(All fi gures in Rs.)
+Debit Credit
+Particulars Amount Particulars Amount
+Opening work-in-progress 40,000 Closing work-inprogress
+10,000
+Raw material consumed:
+Opening stock 5,000
+Add: Purchases 60,000
+Less: Closing stock (15,000) 50,000
+Cost of production for
+the period transferred
+to the trading account 115,000
+Productive wages 20,000
+Power and fuel 10,000
+Factory rent 5,000
+125,000 125,000
+In the above manufacturing account, the cost of manufacturing
+associated with the carried forward inventory is represented by opening
+work-in-progress (WIP). Th e current year’s manufacturing cost is added
+to the opening WIP, that is, raw materials consumed, productive wages,
+fuel and rent costs. Finally, the manufacturing cost of closing work-inprogress
+with respect to the inventory unsold and carried forward to the
+next year is subtracted to give us the current year’s cost of production.
+Income Statement of a Manufacturing Concern 63
+Box 7.1 Current year’s cost of production
+Continuing with the illustration of M/s Rasiklal Daruwala & Co., we
+move to the trading account.
+Bholuram: Hey Finnova, I have a confusion. Why do you
+keep adding the year’s opening fi gures (example, opening
+stock of raw materials) and subtracting the closing fi gures
+(example, closing stock of raw materials) to get the current
+year’s fi gures?
+Finnova: Bhola, let me explain this concept with a simple
+example. Suppose, you are in the business of selling apples.
+Now on Monday you took 20 apples from your house to sell
+them in your shop, but are able to sell only 15. You leave the
+remaining fi ve apples in your shop. On Tuesday, you again
+take 20 apples from your house to the market. At the end
+of the day you make a count and fi nd that you are left with
+seven apples in your shop.
+Now, imagine the apples left on Monday as the Opening
+stock (5), the apples taken from your house to the shop
+on Tuesday (20) as the goods produced in the current year
+and the apples left at the end of Tuesday (7) as the Closing
+Stock. Now, if we need to calculate the cost of goods
+sold in the current period, i.e. the number of apples sold on
+Tuesday. To do so, you will fi rst calculate the total number
+of apples that you had at your disposal for potential sales on
+Tuesday. To arrive at this fi gure, you will add the apples left
+at the end of Monday with the apples brought to the shop
+on Tuesday, i.e., 5 + 20 = 25 apples. This gives us the maximum
+number of apples that were available to us for sale, i.e.,
+this gives us the ‘goods available for sale’. Now, we simply
+subtract the closing stock, i.e., the number of apples left at
+the end of Tuesday to give us the number of apples actually
+sold on Tuesday, i.e., (25 – 7) = 18 apples. This corresponds
+to the goods sold during the period.
+The same concept is applied in case of accounts wherein
+the previous year’s closing fi gure is added to the current
+year’s production fi gure and the current year’s closing fi gure
+is subtracted from the obtained total to give us the current
+year’s cost fi gures.
+64 How to Read a Profi t and Loss Statement
+Trading Account
+Th e trading account indicates the amount of gross profi t earned by the
+business, by matching the cost of the sales with the revenues generated by
+the business during the period. In many cases the manufacturing account
+is merged with the trading account to give us a combined manufacturing
+and trading account. In the case of a manufacturer who is also a trader,
+the trading account discloses not only the profi t made by the business by
+selling the manufactured goods, but also profi ts generated by the sale of
+goods purchased directly from others. Continuing with the same example,
+if we are given the following additional information:
+􀀁 Opening stock (fi nished goods) Rs. 25,000
+􀀁 Sale Rs. 160,000
+􀀁 Closing stock (fi nished goods) Rs. 35,000
+􀀁 Cartage Rs. 15,000
+􀀁 Purchase (fi nished goods) Rs. 15,000
+Based on the above information, the trading account of the fi rm
+appears as shown in Table 7.2.
+Table 7.2 Trading Account M/s Rasiklal & Co. for the Year
+Ended March 31, 2009
+(All fi gures in Rs.)
+Debit Credit
+Particulars Amount Particulars Amount
+Opening fi nished
+goods
+25,000 Sales 160,000
+Cost of production for
+the period transferred
+from manufacturing
+account
+115,000
+Closing stock of fi nished
+goods
+35,000
+Purchase of fi nished
+goods
+15,000
+Cartage expenses 15,000
+Gross profi t 25,000
+Total 195,000 Total 195,000
+Income Statement of a Manufacturing Concern 65
+In this way, one can calculate the amount of gross profi t earned by
+matching the cost of sales with the revenues generated by the business. In
+Table 7.2, the cost of sales (Rs. 170,000) is subtracted from the revenues
+generated (Rs. 195,000) to give us the gross profi t (Rs. 25,000) as a
+balancing fi gure.
+Once a manufacturing fi rm reaches this state, it goes on to compute
+its net income using the profi t and loss account. Th e process of computing
+the ending balance of reserves and surplus, that is, current period’s closing
+retained earnings from a fi rm’s net income fi gures is part of the profi t
+and loss appropriation account. One can easily conclude that these two
+accounts––profi t and loss account and profi t and loss appropriation account,
+are common to all types of fi rms, i.e., manufacturing or otherwise.
+Possible Future Expenses
+8
+C H A P T E R
+A other situation encountered by us, which poses some measurement
+diffi culty1, is where costs are to be incurred in subsequent periods but
+which are directly in relation to the revenue of a given accounting period.
+Th ese expenses pose an important problem since the expense is more or
+less certain, but the amount is by and large not certain. We normally
+estimate the amount of expense in question, relating to an accounting
+period, in order to make a reasonably accurate measurement of the profi t
+or loss of the period. Examples of such expenses could be, not receiving
+payments (collection losses) with respect to credit sales (say, of a telephone
+operator like Bharti Airtel), which, may be known only in a future period;
+warranty costs to be incurred with respect to sales of the period (say, of
+a durable consumer goods player like Videocon Industries), which are to
+be incurred in future; and similar other cases. An example of such a case,
+that is, bad debt expense is subsequently discussed.
+Bad Debt Expense
+In most business situations, sale ‘on credit’ is common. We also treat such
+a sale as ‘realized’ since it produces a certain asset––accounts receivable.
+Th us, a credit sale is recognized at the point of sale, during the accounting
+1Here, we refer to those costs that are to be incurred in subsequent periods, but are in relation to
+the revenue of this year (Matching Principle).
+Possible Future Expenses 67
+period in which the transaction takes place. Th e uncollected balance at
+the close of the accounting period is refl ected as an asset on the balance
+sheet, commonly mentioned as sundry debtors or accounts receivable or
+trade debtors.
+Now, if the customer is not able to make the payment, both these
+accounting records, that is, record as revenue of the period and record
+as asset at the close of the period will amount to an overstatement in
+the fi gures of sales and accounts receivable respectively. Th us, in an ideal
+scenario, accountants would deduct the total amount of bad debt (due to
+bad credit sales) from these two fi gures. However, accountants have no
+error-free basis of estimating the exact amount of such collection losses at
+the time of sale. You will concur that the existence and the exact amount
+of bad debts will be known only in a subsequent accounting period. Th is
+is the reason why accountants make an estimate of the default in this
+accounting period. Let us learn this through Example 6.
+Example 6: Roshini Traders
+A business is started in the name and style of ‘Roshini Traders’ with owner(s)
+equity of Rs. 2,500. Th e business makes four credit sales of Rs. 250 each,
+during an accounting period. Th e cost of sales for the same is known to be
+Rs. 125 each. Th e profi t and loss account is shown in Table 8.1.
+Table 8.1 Profi t and Loss Account of Roshini Traders
+(For the accounting period)
+Expenses Rs. Revenues Rs.
+Cost of goods sold 500 Sales 1,000
+Profi t for the period 500
+Total 1,000 Total 1,000
+Th e balance sheet records arising from this is shown in Table 8.2.
+68 How to Read a Profi t and Loss Statement
+Table 8.2 Balance Sheet of Roshini Traders
+(As at the close of the accounting period)
+Assets Rs. Liabilities Rs.
+Accounts receivable 1,000 Retained earnings 500
+Other assets 2,000 Owner(s)’ contributed
+equity
+2,500
+Total 3,000 Total 3,000
+The word ‘bad’ implies that an account receivable is no more
+recoverable. Th us, an amount that was supposed to be received in the
+future, but is not received and there is no chance of its recovery in its
+future is known as ‘bad’. Th ere could be varied reasons for the occurrence
+of bad debts, for example, closure of the buying party or a court order on
+the buyer, etc.
+Now, assuming that in the above example, one of the accounts goes
+bad, then the collection loss will amount to Rs. 250. Now if we do not take
+the fact of one credit sale worth Rs. 250 going bad then we would have
+overstated the receivables (asset in the balance sheet), sales (revenue in the
+profi t and loss account) and profi ts (retained earnings in the balance sheet).
+While it is not possible to arrive at a certain bad debt fi gure before hand, it
+is possible for us to make a rough estimation of the losses on account of bad
+debts, and reduce the revenues and thereby, profi ts to that extent.
+Th is is achieved by recognizing this amount of Rs. 250 as an increase
+in the expense––bad debts expense––thereby, reducing profi t. Th us, we
+will have a profi t and loss account and a balance sheet as shown in Table
+8.3 and Table 8.4.
+Table 8.3 Profi t and Loss Account of Roshini Traders
+(For the accounting period)
+Expenses Rs. Revenues Rs.
+Cost of goods sold 500 Sales 1,000
+Bad debt expense 250
+Profi t for the period 250
+Total 1,000 Total 1,000
+Possible Future Expenses 69
+Table 8.4 Balance Sheet of Roshini Traders
+(As at the close of the accounting period)
+Assets Rs. Revenues Rs.
+Accounts receivable 1,000 Retained earnings 250
+Less: Estimated collection loss (250) 750
+Other assets 2,000 Other equities 2,500
+Total 2,750 Total 2,750
+Note that in the example, Roshini Traders has estimated its bad debts
+to be Rs. 250. However, it may or may not turn out to be the case in
+the next accounting period. Generally, the probable collection losses are
+estimated and provided for by charging them as an expense of the period.
+Such an estimated expense is reduced from the value of the asset; accounts
+receivable, to show the realizable value of the asset.
+Depreciation, Amortization
+and Depletion
+9
+C H A P T E R
+E very asset used in the business has a limited useful life. Th e useful life
+is the period of time for which an asset can be economically used. Th is
+implies that the benefi ts from the particular asset will be enjoyed by the
+organization only during its useful life, after which the asset would become
+incapable to be put to any profi table use. In the next two paragraphs, we
+provide two diff erent explanations for adjusting this.
+In our discussion earlier, we have seen that fi xed assets are long lived
+and provide benefi ts beyond one operating cycle. While discussing the
+idea of expense, we saw that expenses are expired costs. All costs incurred
+on any asset with a limited life, thus, expire during its lifetime. Using
+this understanding, it is not diffi cult to perceive what depreciation is.
+Depreciation expense is the expired cost of an asset during an accounting
+period. Th us, depreciation is that part of the fi xed asset which in a sense
+has been used up by the company to generate the current year’s revenue.
+For a fi rm, the value of the asset does not remain the same throughout
+the life of the asset. It is reduced throughout the life of an asset as a result
+of the wear and tear that it undergoes, as a result of constant use. Quite
+obviously, no one would put the same value to a brand new car and a
+car which, let us say, is 10 years old. So, in order to represent a true and
+accurate value of the asset, the amount at which the asset is recorded in
+the balance sheet is reduced in proportion to the life of the asset. Th e
+older the asset, the more is the reduction in value. Such reduction in value
+is referred to as depreciation.
+Th us, depreciation may also be defi ned as the reduction in value of an
+asset as a result of the wear and tear due to use or with passing of time.
+Let us illustrate this idea with Example 7.
+Depreciation, Amortization and Depletion 71
+Example 7: Manoj Joshi
+Manoj Joshi purchased a sewing machine having a fi ve-year life and no
+salvage value for Rs. 5,000 for his tailoring business. During the life of the
+asset, it will be able to earn revenue of Rs. 10,000.
+Assuming no other expenses, it is simple arithmetic to fi gure out that
+by using the machine, we make a profi t of Rs. 5,000 over its lifetime––
+Rs. 10,000 revenues less Rs. 5,000 for cost of the machine. Th e problem
+of depreciation arises when we have to measure the profi ts annually. What
+should be the amount of profi t to be recognized each year?
+We can approach this problem by using Table 9.1. Assume that the
+following scale shows the amount of revenue earned. We take it that the revenue
+is earned in equal amounts during the fi ve years of the life of the asset.
+Table 9.1 Manoj Joshi, Revenue Over the Period of Use of the Assets
+(All fi gures in Rs.)
+Total revenue = Rs. 10,000
+Period → 1 2 3 4 5
+Amount 2,000 2,000 2,000 2,000 2,000 = Rs.10,000
+Assuming no other costs, we can say that the only cost is the cost
+of the sewing machine, which becomes an expense over the fi ve-year
+period, since there is no salvage value. Now, the question is, how should
+we apportion this cost over the fi ve-year life of the asset? If we make the
+simple assumption that the cost expires in an equal proportion, we have
+this simplest solution as shown in Table 9.2.
+Table 9.2 Manoj Joshi, Cost Expiration Over the Period of Use
+of the Assets
+(All fi gures in Rs.)
+Total machine
+cost
+= Rs. 5,000
+Period → 1 2 3 4 5
+Amount 1,000 1,000 1,000 1,000 1,000 = Rs. 5,000
+Unexpired at the
+end of the period
+4,000 3,000 2,000 1,000 0
+72 How to Read a Profi t and Loss Statement
+Now, having made the assumption of spreading the cost equally,
+we have come to the conclusion that one-fi fth of the cost of the asset
+expires annually. Th at portion of the cost of the asset, which is reckoned
+to expire during an accounting period, is what is termed as depreciation
+expense. Th is also clarifi es that, normally, the total amount of depreciation
+on the asset shall not be more than the depreciable cost of the asset. It
+is this ‘expense’ which is matched against the revenues of a period, for
+determining the profi t.
+From Example 7, based on the assumptions made, we can easily
+determine that the profi t per annum is Rs. 1,000, that is, Rs. 5,000 over
+the useful life of the asset. To recapitulate, depreciation expense is the cost of
+a fi xed asset, written off or matched as expense against the revenues of the
+diff erent periods during which the asset is used.
+Methods of Depreciation
+In Example 7, we assumed that the cost of asset expires uniformly over
+its useful life. However, this assumption is not based on any theoretical
+construct. Th erefore, it is possible for us to assume any other basis of
+expiration. Th e only theoretical basis for these assumptions could be that
+the entire cost less any salvage value, must expire over its useful life.
+Th ere are diff erent methods for depreciation, which diff er from one
+another only on the basis of how the cost should be treated as expiring over
+the life of the asset. Essentially, depreciation methods follow either of two
+broad approaches, the accelerated approach and the uniform approach.
+Methods in which larger amounts are expired during the initial years of
+the life of the assets are known as the accelerated methods of depreciation.
+Th is method has the backing of the principle of conservatism. Th e level
+of uncertainty is higher into the future and hence, expiration of the
+cost at the earliest is welcome. Th e other method tries to expire the cost
+uniformly over the useful life of the assets and hence, is considered to be
+the most easy to follow method. Th is is also the most popular method of
+depreciation. We shall briefl y discuss some of the most commonly used
+methods. However, in order to understand the methods, we should be
+clear about the following ideas:
+Depreciation, Amortization and Depletion 73
+Original Cost of the Asset
+Th is is the cost incurred in making the asset available for use at the fi rst
+instance. Th is amount is specifi ed and known at the time of acquisition
+of the asset.
+Salvage Value
+Th is is the expected recovery or sales value of the asset at the end of its
+useful life. Th is value, in most cases, is not known and hence, is to be
+estimated. When there is no certainty about the recoverable value at the
+end of an asset’s useful life, it is prudent to assume a zero salvage value.
+Useful Life
+Th is is the expected time period for which the asset is to provide economic
+service. It is the period for which the asset can be used for production.
+Th is period also is not known with any certainty at the time when the
+asset is acquired. Th is is usually estimated on the basis of experience or
+technical factors.
+Depreciable Cost
+Th is is the original cost of the asset, less its salvage value. Th is is the
+amount of expense the enterprise will be incurring on account of the
+expired costs of the fi xed asset, over its useful or economic life.
+Book Value
+Th e written down value of the asset at any point of time, is its original cost,
+less depreciation to date (commonly known as, accumulated depreciation).
+74 How to Read a Profi t and Loss Statement
+Th is is also referred to as the written down value or remaining book value.
+Th is is the value at which assets are recorded in the balance sheet.
+While there are many ways to provide depreciation1, we list the two
+most popular ones in Figure 9.1.
+Figure 9.1 Depreciation Methods
+Straight Line/Fixed Method
+Under this method, a fi xed percentage of the original cost of the asset is
+depreciated each year till the asset value becomes nil. Let us understand
+the concept with the help of Example 8.
+Example 8: Rahul Traders
+Assume that Rahul Traders acquire a machine at the beginning of
+operations, at Rs. 10,000. It is expected that the machine will last 10 years
+and will have no salvage value at the end of its useful life. Th e machine
+needs to be depreciated using the straight line method of depreciation.
+1Th e various methods of depreciation has already been discussed in the book How to Read a
+Balance Sheet.
+Depreciation
+Accelerated
+Approach
+Uniform
+Approach
+Diminishing or
+Written Down
+Value
+Straight Line
+or Fixed
+Depreciation, Amortization and Depletion 75
+Th e assumption under the straight-line method is that the cost of the
+equipment expires uniformly over time.2 Th e depreciation every year for
+the machine under the straight-line method will be 1/10 or 10 percent
+of the cost of the asset. Annual depreciation, therefore, will be Rs. 1,000
+(being Rs. 10,000/10). Th e written down value at the end of the fi rst year
+will be Rs. 10,000 less Rs. 1,000 = Rs. 9,000.
+Since, the depreciation will remain constant throughout the lifetime
+of the machine, the second year depreciation will also be Rs. 1,000 and
+at the end of the second year, the written down value of the machine will
+be Rs. 10,000 less (1,000 + 1,000) or (9,000 less 1,000) = Rs. 8,000, and
+so on. Th e book value will become zero at the end of 10 years. Table 9.3
+shows the annual depreciation, accumulated depreciation and remaining
+book value of the asset during its useful life.
+Table 9.3 Depreciation @ 10% Per Annum: Straight Line Method
+Year Cost
+Annual
+depreciation
+Accumulated
+depreciation
+Remaining
+book value
+0 10000
+1 10000 1000 1000 9000
+2 10000 1000 2000 8000
+3 10000 1000 3000 7000
+4 10000 1000 4000 6000
+5 10000 1000 5000 5000
+6 10000 1000 6000 4000
+7 10000 1000 7000 3000
+8 10000 1000 8000 2000
+9 10000 1000 9000 1000
+10 10000 1000 10000 0
+Figure 9.2 graphically represents the outcome of straight-line
+depreciation over the useful life of the asset. Th e graph illustrates the
+annual depreciation as a straight line (which runs parallel to its base line),
+hence, the name straight-line method of depreciation.
+2It works out to be depreciable cost divided by the estimated life of the asset. Th e depreciable cost
+is equal to the original cost of the equipment less its salvage value.
+76 How to Read a Profi t and Loss Statement
+Figure 9.2 Annual Depreciation Charge @ 10% Per Annum:
+Straight Line Method
+Th e accumulated depreciation (total depreciation charged till date)
+will increase annually, at a uniform rate, becoming equal to the depreciable
+cost of the asset at the end of its useful life. As shown in Figure 9.2, it is a
+straight line sloping upward to the right from origin whereas, the written
+down value steadily declines to become zero at the end of the useful life of
+the asset, hence, a downward sloping straight line, reaching origin at the
+end of its useful life.
+Diminishing Balance/Written Down Value Depreciation
+Under the written down value (W.D.V.)/diminishing balance /reducing
+balance method, the depreciation for each year is calculated as a fi xed
+percentage of the balance fi gure of the asset brought forward from the
+previous year. Depreciation is taken as a certain rate, and it is applied to
+the written down value of the asset as, at the beginning of each year. Th e
+eff ect of this method is that the amount of depreciation charged every
+year is an amount less than that in the previous year. Th is is due to the
+fact that the expiration reduces the value of the asset and the same rate
+of expiration is applied to the net value of the asset at the beginning of
+each year. Th is results in lower amounts of depreciation during successive
+years. Th e assumption is that the amount of expiration of the cost of the
+asset is higher during the initial years. (If you feel confused, then do not
+worry, a detailed example at the end of the section will make it clearer.)
+Depreciation, Amortization and Depletion 77
+In the WDV method, we need to decide on a depreciation rate
+in advance. Usually, it is taken to be twice the rate of straight-line
+depreciation.3 We carry the example of Rahul Traders further to show
+the calculation of depreciation using the WDV Method at the rate of 20
+percent.
+Table 9.4 Depreciation @ 20% Per Annum:
+Written Down Value Method
+Year
+Original
+cost
+Annual
+depreciation
+Accumulated
+depreciation
+Remaining
+book value
+0 10000 10000
+1 10000 2000 2000 8000
+2 10000 1600 3600 6400
+3 10000 1280 4880 5120
+4 10000 1024 5904 4096
+5 10000 819 6723 3277
+6 10000 655 7379 2621
+7 10000 524 7903 2097
+8 10000 419 8322 1678
+9 10000 336 8658 1342
+10 10000 268 8926 1074
+Th e non-allocated portion of the cost is usually charged as depreciation
+in the last year of the life of the asset. Since there is no salvage value for
+the asset at the end of its useful life, the terminal year depreciation will be
+taken as Rs. 1,342, that is, Rs. 268 (the depreciation for the period) plus
+Rs. 1074 (the terminal value of the asset).
+Annual depreciation under the written down value method is the
+highest during the fi rst year and goes on reducing over the subsequent
+years. Th is is shown by a rapidly declining curve in Figure 9.3. However,
+3One interesting observation to be made here is that while in the straight-line method of charging
+depreciation, the asset value will eventually reduce to zero; such a scenario is not at all possible
+in the diminishing balance method. Th is is because the depreciation is charged as a percentage of
+previous year fi gures and hence it will always be lower than the value of the asset. So, will not the
+asset ever cease to exist? To take care of such a problem, the remaining value of an asset is generally
+depreciated at a single go in its last year to bring its value down to zero and consequently remove
+it from the balance sheet. Th e remainder, at the end of the period, is considered to be the terminal
+depreciation (total cost of the asset minus depreciation charged till date) during the last year of
+the life of the asset, when no salvage value is expected. Otherwise the residual is considered as the
+salvage value.
+78 How to Read a Profi t and Loss Statement
+the rate of decline reduces as the number of years approaches the end of
+the life of the asset. Th e accumulated depreciation, similarly, increases at a
+rapid rate during the initial years and the rate of increase declines in later
+years. Th e remaining book value of the asset is a declining curve.
+Figure 9.3 Annual Depreciation Charge @ 20% Per Annum:
+Written Down Value Method
+Intangible Assets and Amortization
+Several times, business enterprises acquire intangible long-term assets,
+such as patent rights, distribution rights or copyrights, by paying large
+sums of money. So, intangible assets also represent unexpired costs and
+need to be accounted for their decrease in the future economic utility
+accordingly. Th e method we use to slowly expire intangible assets is
+known as amortization. Hence, we can take amortization to mean the
+depreciation of the intangible assets.
+Intangible assets are a lot more diffi cult to be identifi ed or verifi ed.
+So, in order to simplify their accounting, it is usual practice to amortize
+intangible assets on a straight-line basis. Since it is diffi cult to determine
+the useful life of intangible assets in many cases, they are amortized over a
+Depreciation, Amortization and Depletion 79
+reasonably short period. Th is decision is irrespective of the fact that some
+of these intangible assets may have a much longer legal life.
+Depletion
+Another concept related to depreciation and amortization is depletion.
+Depletion is applicable if a company has some wasting asset, usually
+natural resources (oil reserve or mineral ore deposits). For example, a coal
+mine, wherein the asset value keeps on decreasing with use or passage of
+time. In such a case, the depreciation charged will be proportionate to the
+percentage of asset used up or wasted. For example, let us suppose a coal
+mine that has a 100,000 tonne capacity and a value of Rs. 1,000,000.
+Th en, if in the fi rst year, a total of 15,000 tonne of coal is mined, then
+the depreciation charged would be Rs. 1,000,000 × (15,000/100,000) =
+Rs. 150,000.
+Depreciation and Profit Measurement
+What we have learnt from discussion of the depreciation methods is that,
+depending on the method used for charging depreciation or recognition
+of expiration of the cost of the fi xed assets, we have a diff erent amount
+of charge for annual depreciation. It could also be noticed that over the
+entire life of the asset, the total amount of depreciation charge cannot
+be diff erent from the depreciable cost of the asset. Th us, the diff erence is
+only in terms of the annual apportionment. Th e net eff ect of the methods
+is therefore, in terms of showing less or more profi t in any particular year.
+Th is can be demonstrated by continuing with our earlier illustration.
+Example 8: Rahul Traders…continued
+Assume that the company using the machine in our earlier illustration earns Rs.
+5,000 per annum in earnings before depreciation. Th e diff erence in the annual
+80 How to Read a Profi t and Loss Statement
+measurement of profi t under the straight-line and written down value methods
+is illustrated in Table 9.5.
+Table 9.5 Profi t Measurement under Different Depreciation Methods
+(All fi gures in Rs.)
+Year
+Earnings
+before
+depreciation
+Depreciation Profi t
+Straightline
+W.D.V.
+Straightline
+W.D.V.
+0
+1 5,000 1,000 2000 4000 3000
+2 5,000 1,000 1600 4000 3400
+3 5,000 1,000 1280 4000 3720
+4 5,000 1,000 1024 4000 3976
+5 5,000 1,000 819 4000 4181
+6 5,000 1,000 655 4000 4345
+7 5,000 1,000 524 4000 4476
+8 5,000 1,000 419 4000 4581
+9 5,000 1,000 336 4000 4664
+10 5,000 1,000 269+1,0741 4000 3657
+Total 50,000 10,000 10,000 40,000 40,000
+Table 9.5 and related discussion gives us some important insights. One
+of the important lessons is that any particular method of depreciation has
+no eff ect on the income measurement of the business over its entire life.
+However, diff erent methods of depreciation will produce diff erent profi t
+fi gures on a year-to-year basis. It is not diffi cult to fi nd an explanation for
+this variation.
+1Includes the non-allocated depreciation charge of Rs. 1,074 since there is no salvage value for the
+fi xed asset; under this method, there will always be a terminal unabsorbed depreciation. All fi gures
+are rounded off .
+Depreciation, Amortization and Depletion 81
+Difference: Depreciation, Amortization
+and Depletion
+Frequently, we come across the question of the diff erences between
+depreciation, amortization and depletion. We provide a summary in
+Box 9.1.
+Box 9.1 Summary
+Depreciation is a measure of wearing out, consumption or other loss
+of value of a depreciable asset, arising from use, effl uxion of time or
+obsolescence through technology and market changes. It is allocated
+so as to charge a fair proportion in each accounting period, during
+the useful life of the asset. Depreciation expense is applicable on
+all tangible long-term assets, whose useful life is pre-determined.
+For example, the depreciation expense on movable and immovable
+machineries in a service industry, such as air cargo services.
+Depletion charge is a measure of exhaustion of a wasting asset,
+represented by a periodic write-off of the cost or other substituted
+value. For example, depletion charge of using a mine of iron ore and
+coal, by a steel manufacturer owning those mines.
+Amortization is the gradual and systematic writing-off of an
+intangible long-term asset over an appropriate period. For example,
+amortization of business restructuring expenses and software
+implementation expenses, by a large banking fi rm.
+Example 1: Rewanchal Software
+The following are the list of transactions for Rewanchal Software Limited
+(RSL):
+􀀁 On March 1, Rewanchal and others invest Rs. 50,000 in cash in
+RSL.
+􀀁 On March 2, Rewanchal took a loan of Rs. 20,000 from Venugopal
+for RSL. Being a nice friend, Venugopal does not demand any
+interest on the loan amount and asks it to be repaid in six months
+time.
+􀀁 On March 3, RSL purchased for cash two computers, each costing
+Rs. 29,000.
+􀀁 On March 4, RSL purchased supplies especially stationery for Rs.
+6,000 on credit.
+􀀁 On March 19, RSL completes its maiden sale of software to a retail
+store and receives a price of Rs. 12,000.
+􀀁 On March 21, RSL pays Rs. 2,000 to its creditors for supplies.
+􀀁 On March 29, RSL pays salaries to its employees, amounting to Rs.
+4,000 and as offi ce rent Rs. 1,200.
+􀀁 On March 30, RSL delivers a software package for a shoe shop. Th e
+customer agrees to pay the price of Rs. 8,000 a week later.
+􀀁 On March 31, Rewanchal withdraws Rs. 3,500 for its personal
+use.
+Solved Illustrations
+10
+C H A P T E R
+Solved Illustrations 83
+At the end of the month you are required to prepare its income
+statement.
+Solution
+􀀁 Th e fi rst transaction wherein, Rewanchal and others invest Rs. 50,000
+in cash in RSL would not infl uence the income statement.
+􀀁 Th e second transaction involves, RSL taking a loan of Rs. 20,000
+from Venugopal. Since, an income statement is prepared to record
+the changes to an organization’s owners’ equity (due to its business
+operations) there would be no aff ect on the income statement.
+􀀁 Similarly, the transactions involving RSL purchasing two computers
+and also some supplies would not change the income statement.
+􀀁 The next transaction on March 19, wherein RSL completes its
+maiden sale of software to a retail store and receives a price of Rs.
+12,000 would result in the income statement having a sale of a similar
+amount.
+􀀁 RSL pays Rs. 2,000 to its creditors for supplies. Th is transaction would
+lead to a change in the cash position of the company but would not
+lead to any change in its income statement.
+􀀁 On March 29, RSL pays salaries to its employees, amounting to Rs.
+4,000 and as offi ce rent Rs. 1,200. Assuming these payments are for
+the whole month, would result in the expense side of the income
+statement consisting of these two items.
+􀀁 RSL delivers a software package for a shoe shop worth Rs. 8,000 and
+the customer agrees to pay the price a week later. Th e result of this
+transaction would be an increase in the revenue of the company by a
+similar amount.
+􀀁 On March 31, the owner withdraws Rs. 3,500 from the profi ts of the
+company. We consider the same to be dividend.
+A result of all these transactions would be the following income
+statement (Table 10.1) for RSL:
+84 How to Read a Profi t and Loss Statement
+Table 10.1 Profi t and Loss Account of Rewanchal Software Limited
+for the Period March 1–31
+(All fi gures in Rs.)
+Particulars Amount (Rs.) Particulars Amount (Rs.)
+Rent expense 1,200 Sales net 20,000
+Salaries expense 4,000
+Operating profi t 14,800
+Interest expense 0 Operating profi t 14,800
+Net profi t 14,800
+Withdrawals (or
+dividends) 3,500
+Net profi t 14,800
+Retained earnings
+to balance sheet 11,300
+Matching principle states that we need to adjust the above fi gures
+for the depreciation in the fi xed assets (having made use of them for 25
+days). Also, we need to take stock of the remaining stationery and other
+supplies for necessary adjustments. For example, if we were to decide
+on depreciation of the computers by Rs. 1,700 (assumption) and also
+found that supplies worth Rs. 2,300 were to be consumed by RSL, this
+would have resulted in the income statement (Table 10.2) being restated
+as follows:
+Table 10.2 Profi t and Loss Account of Rewanchal Software Limited
+for the Period March 1–31
+(All fi gures in Rs.)
+Particulars
+Amount
+(Rs.)
+Particulars
+Amount
+(Rs.)
+Rent expense 1,200 Sales net 20,000
+Salaries expense 4,000
+Depreciation expense 1,700
+Supplies consumed 2,300
+Operating profi t 10,800
+Interest expense 0 Operating profi t 10,800
+Net profi t 10,800
+Withdrawals (or dividends) 3,500 Net profi t 10,800
+Surplus carried to the
+balance sheet (or retained
+earnings to balance sheet) 7,300
+Solved Illustrations 85
+Example 2: Mitu & Tikan Textiles
+From the following information provided for the year ending by Mitu
+& Tikan Textiles, prepare a profi t and loss account for the fi nancial year
+2009:
+Capital Employed 200,000 Opening Stock 60,000
+Machinery Purchased 100,000 Furniture 50,000
+Cash Purchases for the Year 175,000 Cash Sales 305,000
+Payable to suppliers of material 25,000 Adv. Expenses 5,000
+Credit Sales for the Year 15,000 Discount allowed 5,000
+Cash Discount on purchases 15,000 Closing Stock 15,000
+Salary Paid 25,000 Receivable from
+Credit Purchases for the year 25,000 customers 15,000
+Solution
+Th is is a problem which will be solved by identifying the individual items
+and allocating them to the appropriate side of either the balance sheet or
+income summary in the following manner:
+􀀁 Capital employed is not considered in the preparation of the profi t
+and loss account, as we have seen in the previous chapter that it is a
+balance sheet item. Similar is the case of machinery purchased and
+furniture (both would be part of assets).
+􀀁 As explained in this chapter, purchases include all purchases, whether
+on cash or on credit. Th e amount payable to the supplier of raw
+materials is shown in the balance sheet as sundry creditors (or trade
+payables). Hence, purchases for the year amount to Rs. 200,000
+(cash purchases Rs. 175,000 plus credit purchases Rs. 25,000).
+􀀁 Similarly, sales include the total amount of sales for cash as well as
+credit. Th e amount receivable from customers is shown in the balance
+sheet as sundry debtors, as a part of the current assets. Th us,
+the sales for the year are Rs. 320,000 (cash sales Rs. 305,000 and
+credit sales Rs. 15,000).
+86 How to Read a Profi t and Loss Statement
+􀀁 Discount allowed is an expense for the business, and so it is charged
+against the revenue for the period.1
+􀀁 Similarly, discount received is a benefi t enjoyed by the business and
+it can be treated as revenue for the period.2
+Now, we are in a position to prepare the profi t and loss account for
+Mitu & Tikan Textiles (Table 10.3).
+Table 10.3 Profi t and Loss Account of Mitu & Tikan Textiles for the
+Year Ending December 31, 2009
+Particulars
+Amount
+(Rs.)
+Particulars
+Amount
+(Rs.)
+To opening stock 60,000 By sales during the year 320,000
+To purchases for the year 200,000 By discount received 15,000
+To discount allowed 5,000 By closing stock 15,000
+To salary 25,000
+To advertisement expenses 5,000
+To profi t for the year 55,000
+Total 350,000 Total 350,000
+Example 3: Chandu
+Chandu runs a small manufacturing unit. He maintains books of accounts
+according to the traditional system, being used by him since years. See
+Table 10.4 for particulars from his books as on March 31, 2009.
+Table 10.4 Chandu’s Book of Accounts
+Particulars Rs. (as on April 1, 2008) Rs. (as on March 31, 2009)
+Fixed assets block 200,000 180,000
+Debtors (receivables) — 50,000
+Cash and bank balance 10,000 15,000
+Stock 40,000 45,000
+Creditors 15,000 5,000
+1Alternatively, it can be shown as a reduction from the sales. In that case, net sales amount
+would be Rs. 315,000 (that is, 320,000 – 5,000).
+2Alternatively, it can be shown as a reduction from the total purchases for the period, making
+the amount of net purchases to be Rs. 185,000 (i.e., Rs. 200,000 – Rs. 15,000). Readers
+can calculate and verify that in both the alternative treatments, net profi t of the business will
+remain the same.
+Solved Illustrations 87
+While talking to Chandu, we also note the following points:
+􀀁 Depreciation on the fi xed assets can be pegged at the rate of 10
+percent per accounting year.
+􀀁 Bad debts (due to credit sales) for the period were identifi ed as
+Rs. 5,000. Chandu also informed us that we would need to provide
+a 2 percent provision for bad and doubtful debts.
+􀀁 Wages paid during the period were Rs. 15,000 and salary paid was
+Rs. 20,000.
+􀀁 During the period, prepaid salaries were Rs. 1,000 and wages outstanding,
+Rs. 1,500.
+􀀁 Purchases and sales for the period were Rs. 150,000 and Rs. 225,000
+respectively. All the purchases and sales were done on credit basis.
+􀀁 Interest on short-term deposits was Rs. 15,000.
+You are required to prepare an income statement for the year ending
+March 31, 2009.
+Solution
+Th is problem requires the reader to identify the items pertaining to the
+profi t and loss account and thereon, tackle them. Th e problem can be
+worked out properly if we divide all the items into two groups, that is,
+trading account and the rest of the profi t and loss account items. We
+have seen that a trading account is a fi nancial statement displaying the
+sales, cost of those sales and gross profi t arising during the period of that
+account. Further, the rest of the profi t and loss account starts from the
+gross profi t and ends with net profi t or loss for the period by adjusting
+the expenses incurred and other items during the period of the account.
+Accordingly, the two accounts can be prepared as in Tables 10.5 and
+10.6.
+88 How to Read a Profi t and Loss Statement
+Table 10.5 Trading Account of Chandu for the Year Ended March 31, 2009
+Particulars
+Amount
+(Rs.)
+Particulars
+Amount
+(Rs.)
+To opening stock 40,000 By sales 225,000
+To purchases 150,000 By closing stock 45,000
+To wages 15,000
+Add: outstanding wages* 1,500
+To gross profi t 63,500
+Total 270,000 Total 270,000
+*Wages outstanding are related to the current period only. Hence, it is charged against
+the revenue of the related period.
+Table 10.6 Other Items of Profi t and Loss Account of Chandu for the
+Year Ended March 31, 2009
+Particulars
+Amount
+(Rs.)
+Particulars
+Amount
+(Rs.)
+To depreciation 20,000 By gross profi t 63,500
+To bad debts 5,000 By interest income 15,000
+To provision for bad debts* 1,000
+To salary paid 20,000
+Less: Prepaid salary** 1,000 19,000
+To net profi t 33,500
+Total 78,500 Total 78,500
+* Debtors on 31.03.2009 = Rs. 50,000; Provision for bad debts = 2% of Rs. 50,000 =
+Rs. 50,000 = Re. 1
+** Prepaid salary pertains to the next accounting period. Hence, the total amount of
+salary paid is reduced with the amount of salary prepaid to follow the matching concept.
+Often, we come across the fi nancial statements of non-for-profi t
+entities such as a club or a trust––in such a case the format of fi nancial
+statements is slightly diff erent. We capture the same using Example 4.
+Example 4: Bombay Club
+Table 10.7 shows the receipts and payments account of Bombay Club for
+the year ended March 31, 2009.
+Solved Illustrations 89
+Table 10.7 Receipts and Payments Account of Bombay Club for the
+Year Ended March 31, 2009
+Receipts Payments
+Particulars
+Amount
+(Rs.)
+Particulars
+Amount
+(Rs.)
+Opening bank balance 15,000 Furniture purchased 20,000
+Loan from Malcolm D’souza 10,000 Insurance premium paid 5,000
+Membership fee received* 55,000 Salary paid 19,500
+Entrance fee received 18,000 Rent paid 12,000
+Proceeds from sale of
+investments 125,000
+Electricity paid 2,000
+Printing and stationery 1,850
+Sundry expenses 3,000
+Closing bank balance 159,650
+Total 223,000 Total 223,000
+*Membership fees of Rs. 55,000 consisted of the following:
+Previous dues of membership fees:
+Membership fees for the year:
+Advance membership for the next year:
+Rs. 5,000
+Rs. 40,000
+Rs. 10,000
+Th e additional information provided to you is
+31-03-2008 31-03-2009
+􀀁 Rent outstanding Rs. 1,200 Rs. 2,400
+􀀁 Membership fees (not received) Rs. 5,000 —
+􀀁 Cost of investments sold Rs. 20,000. Th ese investments were
+purchased long back (before FY2008).
+􀀁 Loan was taken from Malcolm on June 30, 2008, on interest of 10
+percent per annum.
+􀀁 Value of furniture on March 31, 2008, was Rs. 16,000. It is noted
+that new furniture was purchased on June 30, 2008. Depreciation
+on furniture is to be provided at 20 percent per annum.
+􀀁 Th e accounting policy of the club provides that 30 percent of
+the entrance fee is to be treated as revenue and the balance be
+capitalised.
+􀀁 Th e capital and other funds balance as on March 31,2008, is
+Rs. 54,800.
+90 How to Read a Profi t and Loss Statement
+You are required to prepare a balance sheet as on March 31,2008,
+income and expenditure account for the period ended March 31, 2009,
+and a balance sheet as on that date.
+Solution
+Th is is a complicated problem but it refl ects situations usually faced by
+fi nance executives. It can be solved in various ways. We illustrate one
+way of cracking the problem. It involves preparing the balance sheet of
+Bombay Club for FY2008 and then working on the fi nancial statements
+of FY2009 by deciphering information given in the problem.
+In the previous chapter, we have seen the way in which a balance sheet
+is prepared. We use the same method here. Based on the information
+provided we can say that the amount of fee due but not received at the
+end of the year is a current asset (receivable). Similarly, the bank balance,
+furniture, and investments would be part of the assets side of the balance
+sheet. Regarding other items, we know that the amount of rent payable is
+a current liability, so it is included under the head liabilities. In addition,
+capital and other funds would also be part of the liabilities side of the
+balance sheet. Th e opening balance sheet is, thus, presented in Table 10.8.
+Table 10.8 Bombay Club Balance Sheet as on March 31, 2008
+Assets
+Amount
+(Rs.)
+Liabilities
+Amount
+(Rs.)
+Current assets Current liabilities
+Bank balance 15,000 Outstanding rent 1,200
+Membership fee receivable 5,000
+Non-current assets
+Investments 20,000 Owner’s equity and funds
+Furniture 16,000 Capital and other funds 54,800
+Total assets 56,000
+Total liabilities and
+owner’s equity
+56,000
+Now, let us consider the following revenue items which eff ect the
+income and expenditure statement of the current year:
+􀀁 Total rent paid during FY2009 is Rs. 12,000. We know that out of
+this, an amount equal to 1,200 relates to the previous year, as the
+same amount was outstanding as on March 31,2008. Further, the
+Solved Illustrations 91
+amount of rent outstanding as on March 31,2009––Rs. 2,400––is
+the rent payable and hence, pertains to the current period. Th erefore,
+the actual rent for the year 2009 is Rs. 13,200 {Rs. 12,000 – (Rs.
+1,200 + Rs. 2,400)}.
+or
+Rent paid = Rs. 12,000
+Add: Current year outstanding = Rs. 2,400
+Less: Last year outstanding = Rs. 1,200
+= Rs. 13,200
+􀀁 Th e accounting policy of the club states that 30 percent of the
+entrance fee is to be treated as revenue and the balance is capitalised.
+As a result, 30 percent of Rs. 18,000 (or Rs. 5,400) is to be
+considered as revenue and the balance 70 percent (or Rs. 12,600) is
+to be capitalised and added in capital and other funds.
+􀀁 Depreciation on furniture is calculated as follows:
+On opening balance (for 12 months) 16,000 × 20% = Rs. 3,200
+On purchases during the year (nine months) 20,000 ×
+20% × 9/12 = Rs. 3,000
+Total Rs. 6,200
+􀀁 Interest on loan is calculated for a period of nine months at 10
+percent per annum. Since the amount is related to the current
+period, it is treated as an expense and as the amount is yet to be
+paid; it is also taken to the balance sheet as a current liability.
+Now, the income and expenditure account of Bombay Club for the
+year ended March 31, 2009, is presented in Table 10.9.
+Table 10.9 Bombay Club Income and Expenditure Account for the
+Period March 31, 2009
+Particulars
+Amount
+(Rs.)
+Particulars
+Amount
+(Rs.)
+To salary 19,500 By entrance fee (30% revenue) 5,400
+To rent 13,200 By profi t on sale of investment 105,000
+To electricity 2,000 By membership fee 40,000
+To printing and stationery 1,850
+92 How to Read a Profi t and Loss Statement
+To sundry expenses 3,000
+To insurance paid 5,000
+To depreciation 6,200
+To interest payable 750
+Excess of income over
+expenditure* 98,900
+Total 150,400 Total 150,400
+􀀁 Th e excess of income over expenditure is the balancing fi gure. It is
+similar to net profi t.
+After preparing the income and expenditure account, we can prepare
+the balance sheet without any diffi culty, in Table 10.10.
+Table 10.10 Bombay Club Balance Sheet as on March 31, 2009
+(All fi gures in Rs.)
+Assets
+Amount
+(Rs.)
+Liabilities
+Amount
+(Rs.)
+Current assets Current liabilities
+Bank balance 159,650 Rent payable 2,400
+Interest payable (on loan) 750
+Advance membership fees 10,000
+Long-term liabilities
+Loan 10,000
+Non-current assets Owners equity and funds
+Furniture
+Opening balance
+Rs. 16,000
+Add: Purchases
+Rs. 20,000
+Total gross furniture
+Rs. 36,000
+Less: Accumulated depreciation
+Rs. 6,200
+29,800 Capital and other funds
+Opening balance
+Rs. 54,800
+Add: Entrance fee
+Rs. 12,600 67,400
+Surplus 98,900
+Total assets 189,450
+Total liabilities and
+owner’s equity
+189,450
+It would be a good idea to re-read Table 10.10 and mull over the
+various solutions.
+Summary
+In this book, we developed and examined the income statement.
+Th is statement shows net profi t or earnings generated by a company
+during an accounting period. Th is statement, to sum up, measures the
+management’s contribution during an accounting period by showing the
+income generated from the assets.
+Th e profi t and loss account summarizes the revenues and expenses of
+an accounting period. As a result of this summary, it shows net profi t or
+net loss earned or suff ered by a company during the period. Th e reader of
+this account gets an idea of the cost structure and profi tability during the
+accounting period.
+Exercises
+Th e net profi t, after payment of dividends, shows the amount retained
+and hence, links the balance sheet with the profi t and loss account.
+1. Answer the following by fi lling in the blanks.
+1.1 Th e profi t and loss account is a summary of _______ and _______
+for an accounting period.
+1.2 Realization in accounting is the basis of __________ recognition.
+1.3 Income measurement is achieved by matching _________ to
+_________.
+Summary and Exercises
+94 How to Read a Profi t and Loss Statement
+1.4 Costs relating to realized revenues are considered as ___________.
+1.5 Recognised revenue ______________ the owner(s)’ equity.
+1.6 Expenses result in _____________ of the owner(s)’ equity.
+1.7 Expenses could be recognised in relation to __________ realized or
+a ______ ________ of accounting period.
+1.8 Resources received for sale of goods or services are referred to as
+_______________.
+1.9 Resources used up in producing goods or services are called
+_______________.
+1.10 Wages are an example of _________________.
+2. Multiple Choice Questions.
+2.1 Goods Purchased – Rs 10,000, Sales Rs 9,000 Margin 20% on cost.
+Closing Stock - ?
+(a) (1,000) (b) 1,000
+(c) 2,500 (d) 2,800
+2.2 If the opening inventory is understated and the closing inventory is
+overstated, the profi t would:
+(a) Increase (b) Decrease
+(c) No Change (d) None
+2.3 Inventories consist of:
+(a) Raw Materials (b) Work-in-Progress
+(c) Finished Goods (d) All of the above
+2.4 On which principle will the determination of expenses for the accounting
+period depend?
+(a) Periodicity (b) Matching
+(c) Realization (d) Accrual
+2.5 Revenue from sale of a product is generally, realized when:
+(a) Sale is made (b) It is Manufactured
+(c) Cash is collected (d) It is Delivered
+2.6 Th e depletion method of depreciation is adopted on:
+(a) Land & Building (b) Computers
+(c) Goodwill (d) Mines & Quarries
+Summary and Exercises 95
+2.7 Which among the followings is assumed to be non-depreciating?
+(a) Land (b) Goodwill
+(c) Cash (d) Plant & Machinery
+2.8 Owners’ Equity would change as a result of:
+(a) Decrease of Creditors (b) Payment of salaries & wages
+(c) Increase of Debtors (d) Purchase of Fixed Assets
+3. Relate items in column A to all items in column B.
+Table 11.1
+A B
+a. Depreciation expense 1) An appropriation of profi ts.
+b. Gross sales 2) Unexpired cost of the period
+c. Sales returns/allowances 3) Invoice notation, “2/15, n/30”
+d. Prepaid expense 4) Adjustments to recorded sales.
+e. Discounts 5) Invoice value goods sold during
+the period.
+f. Give effect on return of goods by
+customers.
+6) Reduction from invoice price.
+g. Dividends 7) Expiration of cost of fi xed assets.
+4. Classify each item listed in column A into one of the following categories
+– (a) Operating revenue (b) Non-operating revenue (c) Cost of goods
+sold (d) Selling and distribution expense (e) General administrative
+expense (f ) Appropriation of profi t and (g) Not related to profi t and
+loss account, by appropriately marking them in column B. Assume that
+the information relates to a small manufacturing fi rm.
+Table 11.2 Classifi cation of Items
+A B
+Raw material consumed
+Interest received
+Dividends received
+Wages paid to manufacturing workers
+Carriage on goods sold
+Carriage on goods purchased
+Salary of clerical staff
+Rent for offi ce
+Power and fuel
+96 How to Read a Profi t and Loss Statement
+A B
+Selling agents commission
+Advertising
+Auditor(s) fees
+Sales tax
+Municipal rates on offi ce premises
+Profi t on sale of fi xed assets
+Power used in administrative offi ce
+Sales discount
+Purchase returns and allowances
+Dividends paid
+Interest expense on loans
+5. Shyam’s Enterprise
+Table 11.3 shows the summarized profi t and loss account of Shyam’s
+Enterprise for five consecutive periods. Complete the same by
+supplying the missing information.
+Table 11.3 Summarized Profi t and Loss Account of Shyam’s Enterprise
+(Figures in Rs. ‘000’s)
+Year → 1 2 3 4 5
+Sales 1000 ? 3000 ? 5000
+Cost of goods sold 500 800 ? 2500 3000
+Gross profi t ? 700 1000 1500 ?
+Administrative expenses 100 ? 400 400 ?
+Selling and distribution 150 200 ? 500 600
+Operating profi t ? 200 400 ? 1000
+Other income 150 ? 200 ? 500
+Net profi t before tax ? 300 ? 1000 ?
+Provision for corporate tax 200 ? 300 ? 750
+Profi t after tax ? 200 ? 500 ?
+Dividend 50 ? 10 ? ?
+Surplus to retained earnings
+(that is, balance sheet)
+? 100 ? 50 500
+6. Shantanu Real Estate Brokers
+Th e summary fi nancial data for each transaction of Shantanu Real
+Estate Brokers are presented in Table 11.4 in the extended balance
+sheet equation form. Describe the possible transactions for each
+entry.
+Summary and Exercises 97
+Table 11.4 Transactions of Shantanu Real Estate Brokers
+(Figures in Rs. ‘000’s)
+Cash +
+Accounts
+receivable +
+Offi ce
+furniture
+= Accounts
+payable
++ Shantanu,
+capital
+(i) 100 100
+(ii) 200 200
+(iii) – 50 + 250 200
+(iv) + 600 + 600
+(v) – 100 – 100
+(vi) – 200 – 200
+(vii) +200 +200
+(viii) +100 +100 +200
+(ix) +150 –150
+(x) – 200 – 200
+(xi) – 100 – 100
+7. Profi t and loss account of Infosys Technologies Limited
+In Chapter 5, we gave a brief idea into the performance of Infosys
+Technologies Limited, one of the largest software giants in India, for
+the fi nancial year 2009. Based on the same, please mark whether the
+following statements in Table 11.5 are true or false by marking ‘T’ or
+‘F’ opposite each statement.
+Table 11.5 Performance of Infosys in FY 2009
+7.1 In FY2009, Infosys reserves and surplus jumped by 33 percent on
+a year-on-year basis (approximately).
+(T/F)
+7.2 In FY2009, due to severe global economic recession, Infosys
+made a loss.
+(T/F)
+7.3 In FY2009, approximately Rs. 26 was distributed by Infosys to its
+shareholders for every Rs. 100 earned.
+(T/F)
+7.4 Infosys was able to earn Rs. 28.72 for every Rs. 100 worth of sale
+made by it in FY2009 (note: this measure is also known as net
+profi t margin).
+(T/F)
+7.5 The company decided to reinvest 64 percent of its earnings during
+FY2009.
+(T/F)
+8. Trends in income statement of ACC Limited
+In Chapter 4, we introduced you to the income statement of ACC
+Limited (formerly, the Associated Cement Companies Limited),
+India’s oldest and largest cement manufacturer. Based on the income
+98 How to Read a Profi t and Loss Statement
+statements provided therein (from FY2006 to FY2008), please mark
+whether the following statements in Table 11.6 are true or false by
+marking ‘T’ or ‘F’ opposite each statement.
+Table 11.6 Performance of ACC Limited
+8.1 While sales of ACC increased in both years (FY2007 and FY2008,
+on a year-on-year basis), the company’s net profi t did not show
+the same trend.
+(T/F)
+8.2 Looking at all the components of ACC’s income statement, we can
+say that ‘other income’ of ACC had the biggest jump from FY2006
+to FY2008 (in percentage terms).
+(T/F)
+8.3 If gross profi t margin is defi ned as gross profi t dividend by net
+sales then one could say that ACC had a gross margin of above
+50 percent for all the three years.
+(T/F)
+8.4 In FY2008, ACC’s operating expenses (especially other expenses)
+increased signifi cantly resulting in a fall in its operating profi ts
+(compared to its previous years).
+(T/F)
+8.5 In FY2007, ACC’s sales discounts and sales returns decreased
+(on a year-on-year basis).
+(T/F)
+8.6 The company’s depreciation expenses have been consistently
+increasing.
+(T/F)
+8.7 The company’s interest expenses have been consistently
+decreasing.
+(T/F)
+8.8 The net profi t margin of the company (defi ned as net profi t divided
+by gross revenue) has been consistently decreasing.
+(T/F)
+Keys
+1. Fill in the blanks:
+1.1 Revenues, Expense
+1.2 Revenue
+1.3 Expenses, Realized Revenues of the Period
+1.4 Expenses
+1.5 Increases
+1.6 Decreases
+1.7 Revenues, Cost Expiration
+1.8 Revenue
+1.9 Assets
+1.10 Expense
+Summary and Exercises 99
+2. Keys:
+2.1 (c)
+2.2 (a)
+2.3 (d)
+2.4 (b)
+2.5 (a)
+2.6 (d)
+2.7 (a) & (c)
+2.8 (b)
+3. Match the following (we pick the best fi t):
+Column A → Column B
+A → 7
+B → 5
+C → 3
+D → 2
+E → 6
+F → 4
+G → 1
+4. Classify the items:
+Column A Column B
+Raw material consumed C
+Interest received B
+Dividends received B
+Wages paid to manufacturing workers C
+Carriage on goods sold D
+Carriage on goods purchased B
+Salary of clerical staff E
+Rent for offi ce E
+Power and fuel C
+Selling agent’s commission D
+Advertising D
+Auditors fees E
+Sales tax A
+Municipal rates on offi ce premises E
+Profi t on sale of fi xed assets B
+Power used in administrative offi ce E
+Sales discount G
+Purchase returns and allowances C
+Dividends paid F
+Interest expense on loans Financial expenses
+100 How to Read a Profi t and Loss Statement
+5. Shyam’s Enterprise
+Year → 1 2 3 4 5
+Sales 1500 4000
+Cost of goods sold 2000
+Gross Profi t 500 2000
+Administrative expenses 400 400
+Selling and distribution 300
+Operating Profi t 250 600
+Other Income 100 400
+Net Profi t before tax 400 600 1500
+Provision for Corporate tax 100 500
+Profi t after tax 200 300 750
+Dividend 100 450 250
+Retained earnings 200 400 700 1200 1950
+6. Shantanu Real Estate Brokers
+Possible transactions:
+i. Shantanu contributed Rs. 100,000 as capital to his business. So, the
+cash position has increased.
+ii. Fixed asset to this business has been shown as Rs. 200,000.
+iii. Offi ce furniture worth Rs. 250,000 has been purchased, but only
+Rs. 50,000 has been paid through cash. Th e remaining amount,
+that is, Rs. 200,000 is on credit.
+iv. Shantanu again contributed Rs. 600,000 as capital.
+v. An amount of Rs. 100,000 was paid to the creditors. So, the cash
+position has decreased.
+vi. Shantanu withdraws Rs. 200,000 from the capital account. So, the
+cash position has been decreased by an equivalent amount.
+vii. Th e fi rm purchased something worth Rs. 200,000 on credit,
+viii. Shantanu again contributed Rs. 200,000 as capital, but only Rs.
+100,000 in cash and rest on agreement for taking service worth Rs.
+100,000 from the fi rm.
+ix. Rs. 150,000 worth accounts receivables were realized. Hence, the
+cash position increased.
+x. Shantanu withdraws Rs. 200,000 from capital account.
+xi. Rs. 100,000 worth accounts payable were settled. Hence, the cash
+position decreased.
+Summary and Exercises 101
+7. Infosys Technologies Ltd
+7.1 True
+It jumped by 32.71% on a year-on-year basis.
+7.2 False
+It had a net profi t margin of 28.72%.
+7.3 True
+Th e dividend paid out was Rs. 25.78 for every Rs. 100 earned.
+7.4 True
+Th e net profi t margin in 2009 was 28.72%.
+7.5 False
+Th e company has reinvested 74.22% of its earnings during 2009.
+8. ACC Ltd
+8.1 True
+Sales in 2008 were 5.2% more as compared to 20.7% in 2007,
+whereas there was a decrease in profi t in 2008 as compared to profi t
+in 2007.
+8.2 True
+Other income rose by 44.2% in 2007 to 62.7% in 2008.
+8.3 True
+Th e gross profi t margin was 53.4% in 2008, 57.8% in 2007 and
+53.9% in 2006. It ranged between 53% and 58%.
+8.4 True
+Th e operating profi t in 2006 was 27.3% whereas it was 20.7% in
+2008.
+8.5 True
+It was down by 5.3% in 2007 as compared to Rs. 120.41 Cr in
+2006.
+8.6 False
+It rose by 16.9% in 2007 but declined in 2008 by 3.6%.
+8.7 False
+It rose by 35.9% in 2007 but declined in 2008 by 45.9%.
+8.8 True
+Net profi t margin was 21.2% in 2006 and declined to 20.4% in
+2007. It further declined to 16.2% in 2008.
+
+A
+ACC, 15
+Accounting period, 10, 93
+Accounting principle, 10
+Accounts receivable, 66-67
+Accrual principle, 11
+Accrual system, 15
+Accrued liability, 23
+Accumulated depreciation, 73
+Amortization, 78, 81
+Appropriations, 32-33
+Assets, 13, 20, 29, 48-49
+Asset expiration, 16
+B
+Bad debts, 68
+Bad debt expense, 67-68
+Balance sheet, 3,29, 47
+Bharti Airtel, 66
+Book value, 73
+Index
+C
+Cash system, 15
+Cash discount, 37-38
+Cartage, 64
+Cheque, 10
+Closing stock, 64
+Contributed capital, 29, 48-49
+Cost expirations, 28
+Cost of goods sold, 28, 32, 39
+Cost of sale, 28
+D
+Depletion, 70, 78, 80-81
+Depreciable cost, 73
+Depreciation, 14, 70, 79, 81
+diminishing or written down
+value, 74, 76-77, 80
+straight line or fixed method,
+74-75, 77, 80
+Depreciation expense, 42, 70, 72
+Diminishing balance method, 74,
+76-77, 80
+Dividends, 29, 32, 48-49
+104 Index
+E
+EAT, 45
+Earnings after tax, 45
+Expenses, 3, 4, 20, 23, 34, 48-49
+Expired costs, 11, 20, 28
+F
+FIFO, 52, 54-55
+Financial statement, 9
+First in fi rst out, see FIFO
+Fixed method, 74
+G
+GAAP Compliance, 15
+Gross profi t, 29, 33, 40
+H
+HUL, 15
+I
+Income statement, 3, 8, 26, 29, 47
+Income summary, see
+income statement
+Income tax, 44
+Indirect expenses, 28
+Infosys Technologies Limited,
+50-51
+Intangible assets, 78
+Interest, 33
+Interest expense, 43
+Inventoriable costs, 21
+Inventories, 16
+Inventory valuation, 52, 59
+FIFO, 52, 54-55
+LIFO, 53, 54-55
+WAC, 54, 55-55
+L
+Last in last out, see LIFO
+Liabilities, 13, 20, 26, 29, 48
+LIFO, 53, 54-55
+Long lived assets, 17
+M
+Manufacturing account, 61
+Matching principle, 15
+Mro-tek limited, 23
+N
+Net income, 7, 18
+Net profi t, 31, 45
+Net profi t before tax, 44
+Non-cash resource, 10
+Non-operating income, 39
+Non-operating expenses, 30n, 33
+Non-inventoriable costs, 21-22
+Index 105
+O
+Opening stock, 64
+Operating expenses, 33, 40n, 41
+Operating profi t, 30, 33, 43
+Original cost of the asset, 73
+Outstanding liability, 23
+Outstanding salary, 23
+Owner(s) capital, 12, 25
+Owner(s) equity, 12, 13, 20, 26, 47
+P
+PAT, 31, 33, 45
+PBT, 31, 33
+PBIT, 31, 33
+Personnel expenses, 41
+Prepaid expenses, 16, 23
+Prepaid rent, 23
+Principle of conservatism, 72
+Profi t, 18, 20
+Profit available for distribution,
+32-33
+Profit before interest & tax, see
+PBIT
+Profi t before tax, see PBT
+Profi t after tax, see PAT
+Profi t and loss account, 8, 26, 33,
+48, 65, 93
+Profit and loss appropriation
+account, 65
+Profi t and loss statement, 3
+Profi t and loss summary, see profi t
+& loss account
+Profi t measurement, 79
+Promissory notes, 10
+R
+Realization principle, 10, 11
+Reducing balance method, 76
+Registrar of companies, 10
+Remaining book value, 74
+Reserves & surplus, 12, 25
+Retained earnings, 32-33, 48-49
+Retained profits of the business
+entity, 12
+Revenues, 3, 4, 11, 19, 23, 34, 48-
+49
+Revenue account, 25
+Right, 10
+S
+Sales, 19, 32, 35, 37, 64
+Sales discount, 37-38
+Sales returns and allowances, 36
+Salvage value, 71, 73
+Straight line depreciation method,
+74-75, 77, 80
+Sundry debtors, 67
+T
+Tax, 33
+Taxes payable, 23
+Turnover, 19
+Trade debtors, 67
+Trade discount, 38
+Trading account, 64
+Transfer of reserves, 32
+106 Index
+U
+Unearned revenue, 19
+Useful life, 70, 73
+V
+Videocon Industries, 66
+W
+WAC, 54-55
+WIP, 62
+Written down value, 74, 76-77, 80
+Weighted average cost, see WAC
+Work in progress, see WIP
+The Authors’ Profi les
+NEELAKANTAN RAMACHANDRAN, Fellow (IIM, Calcutta)
+Management Advisory Services, Kochi
+Ramachandran has been in academics for the past 35
+years. He joined the fi nance faculty of Indian Institute
+of Management (IIM), Calcutta, immediately after
+completing the doctoral program. Later, he shifted
+to Asian Institute of Technology (AIT), Bangkok, as
+Visiting Professor in 1999 and took up the position
+of Chief Internal Auditor from 2002. Currently he
+is the principal consultant with Management Advisory Services, Kochi,
+Kerala. He has been also associated as a consultant with several projects of
+government and non-government agencies in various countries including
+India, Th ailand, Laos, Sri Lanka, Cambodia and Vietnam. His areas of
+interest include Financial Structure of Industries, Corporate Financial
+Accounting and Strategic Cost Management.
+RAM KUMAR KAKANI, Fellow (IIM, Calcutta)
+Associate Professor, XLRI, Jamshedpur
+Kakani has rich experience in both corporate sector
+and academics. He joined XLRI, Jamshedpur, in
+2001. Earlier, he had also worked as a residential
+academic in many international locations including
+Copenhagen, Dubai, and Singapore. His research
+work has been supported by ABRC of London
+Business School and the National Stock Exchange
+of India. His recent achievements include being among the top 1% of
+SSRN authors’ ranking (2007), co-authoring a few popular text books,
+and receiving the 2005 AIMS Best Young Teacher Award. His areas
+of interest include Corporate Finance, Corporate Strategy, Financial
+Analysis, and Study of Business Groups.
