@@ -1,0 +1,26 @@
+FROM python:3.11-slim
+
+# security & basic tooling
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    tini curl ca-certificates gcc build-essential git \
+    && rm -rf /var/lib/apt/lists/*
+
+# Non-root user
+RUN useradd -m runner
+USER runner
+WORKDIR /job
+
+# Ensure out dir exists
+RUN mkdir -p /job/out
+
+# Use pip in user site (no root writes)
+ENV PIP_NO_CACHE_DIR=1
+ENV PYTHONDONTWRITEBYTECODE=1
+ENV PYTHONUNBUFFERED=1
+
+# ENTRYPOINT script: installs deps if present, runs script.py, tees logs to /job/out/log.txt
+# Also sets MPL config so images save to /job/out by default if code uses plt.savefig without path
+COPY --chown=runner:runner run_job.sh /usr/local/bin/run_job.sh
+RUN chmod +x /usr/local/bin/run_job.sh
+
+ENTRYPOINT ["/usr/bin/tini", "--", "/usr/local/bin/run_job.sh"]
